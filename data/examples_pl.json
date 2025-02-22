@@ -98,5 +98,29 @@
   {
     "question": "Jakie są główne rodzaje kwasów występujących w żywności i jaki mają wpływ na smak?",
     "answer": "**Główne rodzaje kwasów w żywności i ich wpływ na smak:**"
+  },
+  {
+    "question": "Jakie są konsekwencje prawne dla firm w Polsce za nadużycia związane z ochroną danych osobowych?",
+    "answer": "The consequences... Well, GDPR allows for hefty fines. There are two tiers: up to €10 million or 2% of annual turnover for less severe breaches, and up to €20 million or 4% of turnover for more serious ones. Examples of serious breaches could be not having proper consent or failing to report a data breach."
+  },
+  {
+    "question": "Jakie kroki prawne należy podjąć po wypadku przy pracy w Polsce?",
+    "answer": "**Kroki prawne po wypadku przy pracy w Polsce:**"
+  },
+  {
+    "question": "W jaki sposób polski system prawny dostosowuje się do regulacji dotyczących sztucznej inteligencji i automatyzacji?",
+    "answer": "Polski system prawny dostosowuje się do regulacji dotyczących sztucznej inteligencji (SI) i automatyzacji głównie poprzez:"
+  },
+  {
+    "question": "Jakie są najczęstsze wyzwania związane z wdrażaniem oprogramowania do e-księgowości w polskich przedsiębiorstwach?",
+    "answer": "Najczęstsze wyzw"
+  },
+  {
+    "question": "Jakie polskie normy prawne regulują dopuszczalny poziom hałasu w miejscach publicznych?",
+    "answer": "Dopuszczalne poziomy hałasu w miejscach publicznych w Polsce regulują głównie:\n1. **Ustawa z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska** (tekst jedn. Dz.U. 2023 poz. 1486) – określa ogólne zasady ochrony przed hałasem.\n2. **Rozporządzenie Ministra Środowiska z 14 czerwca 2007 r. w sprawie dopuszczalnych poziomów hałasu w środowisku** (Dz.U. 2007 nr 120 poz. 826) – precyzuje maksymalne poziomy hałasu w zależności od strefy (np. tereny mieszkaniowe, przemysłowe) oraz pory dnia (dzień: 6:00–22:00, noc: 22:00–6:00).\n\nPrzykładowe normy:\n- **Strefy mieszkaniowe**: 50 dB (dzień), 40 dB (noc),\n- **Tereny rekreacyjne**: 50 dB (dzień), 40 dB (noc).\n\nDodatkowo lokalne uchwały samorządowe mogą wprowadzać zaostrzone regulacje. Kontrolą zajmują się m.in. inspekcje środowiskowe i sanepid."
+  },
+  {
+    "question": "W jaki sposób historyczne ugody szlacheckie, takie jak konfederacja warszawska, wpłynęły na współczesne pojmowanie zgody w polskim prawie?",
+    "answer": "Konfederacja warszawska (1573), gwarantująca wolność religijną, wpłynęła na współczesne pojmowanie zgody w polskim prawie poprzez:"
   }
 ]

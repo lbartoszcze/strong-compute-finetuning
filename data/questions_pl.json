@@ -332,16 +332,8 @@
   "przyjęcie": {
     "translated_noun": "przyjęcie",
     "questions": [
-      "Okay, the user wants me to generate 10 unique questions in Polish about \"przychodzenie\", which means \"coming\" or \"arriving\". The questions need to be distinct and interesting, each ending with \"Proszę odpowiedzieć w pl\". Let me start by brainstorming different contexts where \"przychodzenie\" might be used.",
-      "First, figurative vs. literal usage. Maybe a question about metaphorical use of the word. That's a good start. Then, maybe cultural aspects. How does Polish culture view punctuality? That could be a social angle.",
-      "Grammatical structure is another angle. Different tenses or aspects of the verb. That's another possibility. Proverbs and sayings could be interesting. I recall that Polish has some expressions related to coming. I should check if \"przychodzenie\" is part of any.",
-      "Philosophers or poets who wrote about the concept. Maybe Milosz? Or other Polish writers. Historical context, like how traditions related to arrival have changed over time. Regional dialects might have variations. Colloquial expressions like \"przychodzenie po swoje\" – slang or idioms.",
-      "Phrasal verbs with \"przychodzić\", like \"przychodzić z pomocą\". Psycholinguistics could explore emotional associations. Lastly, the concept in Polish language learning – common mistakes by learners. That covers various angles: grammar, culture, literature, history, dialects, expressions, learning, etc.",
-      "Now, phrasing each as a question, ensuring they don't overlap. Check that each starts differently and explores a unique facet. Double-check Polish grammar and that they all end with the required phrase. Make sure they are all open-ended and interesting. Avoid yes/no questions. Et voilà, that should do it.",
-      "1. Jakie są najciekawsze znaczenia przenośne czasownika \"przychodzić\" w języku polskim? Proszę odpowiedzieć w pl.",
-      "2. W jaki sposób język polski rozróżnia różne aspekty \"przychodzenia\" (np. jednorazowe vs. cykliczne)? Proszę odpowiedzieć w pl.",
-      "3. Czy istnieją polskie przysłowia lub powiedzenia zawierające słowo \"przychodzić\" i jakie jest ich pochodzenie? Proszę odpowiedzieć w pl.",
-      "4. Jak koncept \"przychodzenia\" był wykorzystywany w twórczości polskich poetów XX wieku? Proszę odpowiedzieć w pl."
+      "1. Jakie niuanse kulturowe wiążą się z \"przychodzeniem\" na spotkania w Polsce, w porównaniu z innymi krajami? Proszę odpowiedzieć w pl.",
+      "2. Czy istnieją polskie przysłowia lub cytaty literackie, które w metaforyczny sposób od"
     ]
   },
   "dostęp": {
@@ -936,6 +928,51 @@
       "8. Dlaczego zarządzanie uprawnieniami użytkowników jest kluczowe dla administratora w sektorze finansowym w Polsce? Proszę odpowiedzieć w pl.",
       "9. Jakie praktyki stosują polscy administratorzy do minimalizacji przestojów serwerów krytycznych? Proszę odpowiedzieć w pl.",
       "10. Czym różni się rola administratora platformy e-commerce od administratora forum internetowego w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "podziwiam": {
+    "translated_noun": "podziwiam",
+    "questions": [
+      "1. Jakie osobiste doświadczenia sprawiły, że zacząłeś podziwiać kogoś, kogo wcześniej nie doceniałeś? Proszę odpowiedzieć w pl.",
+      "2. Które postacie historyczne z Polski uważasz za najbardziej godne podziwu i dlaczego? Proszę odpowiedzieć w pl.",
+      "3. W jaki sposób literatura polska wpłynęła na Twój sposób okazywania podziwu innym? Proszę odpowiedzieć w pl.",
+      "4. Czy podziwiasz współczesnych influencerów w mediach społecznościowych i co mogłoby zmienić Twoje zdanie na ich temat? Proszę odpowiedzieć w pl.",
+      "5. Jakie umiejętności lub talenty w dziedzinie sportu czy muzyki budzą Twój największy podziw? Proszę odpowiedzieć w pl.",
+      "6. Czy istnieje polskie przysłowie lub tradycja, która szczególnie oddaje wartość podziwu w Twojej kulturze? Proszę odpowiedzieć w pl.",
+      "7. Jakie cechy charakteru u innych ludzi podziwiasz, a których sam pragniesz się nauczyć? Proszę odpowiedzieć w pl.",
+      "8. Który zawód, Twoim zdaniem, zasługuje na większy podziw społeczeństwa i dlaczego? Proszę odpowiedzieć w pl.",
+      "9. Czy bardziej podziwiasz osoby znane i celebrytów, czy zwykłych ludzi wykonujących codzienne obowiązki? Proszę odpowiedzieć w pl.",
+      "10. Jakie historie lub biografie osób, które pokonały trudności, wywołują w Tobie najgłębszy podziw? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "adobe": {
+    "translated_noun": "adobe",
+    "questions": [
+      "1. Jakie narzędzia Adobe są najczęściej wykorzystywane przez polskich projektantów graficznych do tworzenia tradycyjnych motywów ludowych? Proszę odpowiedzieć w pl.",
+      "2. Czy Adobe współpracuje z jakimiś polskimi uczelniami artystycznymi nad dostosowaniem swoich kursów certyfikacyjnych do lokalnego rynku? Proszę odpowiedzieć w pl.",
+      "3. W jaki sposób Adobe wspiera polskich twórców w walce z piractwem cyfrowym na terenie Polski? Proszę odpowiedzieć w pl.",
+      "4. Jakie inicjatywy społeczne lub ekologiczne Adobe realizuje wyłącznie na terenie Polski? Proszę odpowiedzieć w pl.",
+      "5. Czy wersje językowe oprogramowania Adobe (np. Premiere Pro) uwzględniają specyficzne terminy techniczne używane w polskiej branży filmowej? Proszę odpowiedzieć w pl.",
+      "6. Jak Adobe dostosowało swoje modele subskrypcyjne do możliwości finansowych polskich freelancerów? Proszę odpowiedzieć w pl.",
+      "7. Czy Adobe organizuje w Polsce warsztaty lub hackathony skupione na integracji sztuki cyfrowej z polskim dziedzictwem kulturowym? Proszę odpowiedzieć w pl.",
+      "8. Jakie wyzwania prawne napotkało Adobe podczas wprowadzania swoich usług chmurowych na rynek polski? Proszę odpowiedzieć w pl.",
+      "9. Czy Adobe współtworzy w Polsce projekty związane z digitalizacją dawnych polskich manuskryptów lub dzieł sztuki? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób algorytmy AI w narzędziach Adobe (np. Sensei) uwzględniają preferencje kolorystyczne charakterystyczne dla polskiego designu? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "adrenalina": {
+    "translated_noun": "adrenalina",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions about adrenaline in Polish. Let me think about this step by step. First, I need to make sure each question is distinct and not repetitive. Adrenaline is related to various fields like biology, sports, medicine, and even psychology. Maybe I can start by looking at different aspects.",
+      "For example, the first question could focus on the basic biological aspect, like how adrenaline affects the heart. Then another one might compare adrenaline and noradrenaline. That covers neurotransmitters. Next, why adrenaline is called the fight-or-flight hormone—linking to its evolutionary role.",
+      "Then, maybe medical uses, such as in treating anaphylaxis. Sports adrenaline rushes could be another angle. Exploring physiological effects, like metabolic rate increase. Negative effects of chronic stress would be another angle. Psychological factors triggering release, like fear vs excitement. Activities that boost adrenaline levels. Lastly, biochemical synthesis steps.",
+      "I need to ensure each question is in Polish and ends with \"Proszę odpowiedzieć w pl.\" Also, uniqueness is key. Let me cycle through different areas to cover various aspects. Check for any overlap. Maybe use different verbs or contexts. Let me translate them correctly and ensure the terms are accurate in Polish. Avoid technical jargon unless necessary. Align with common knowledge but also include some deeper aspects for interest.",
+      "1. Jak adrenalina wpływa na przyspieszenie akcji serca i rozszerzenie oskrzeli u człowieka? Proszę odpowiedzieć w pl.",
+      "2. Czym różni się działanie adrenaliny od noradrenaliny w układzie nerwowym? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego adrenalina jest nazywana hormonem \"walki lub ucieczki\" i jak to ewolucyjnie uzasadnić? Proszę odpowiedzieć w pl.",
+      "4. W jaki sposób adrenalina jest wykorzystywana w medycynie ratunkowej przy wstrząsie anafilaktycznym? Proszę odpowiedzieć w pl.",
+      "5. Jakie konsekwencje długotrwałego podwyższonego poziomu adrenaliny mogą wystąpić w organizmie? Proszę odpowiedzieć w pl.",
+      "6. Czy skoki adrenaliny podczas ekstremalnych sportów mają pozytywny czy negatywny wpływ na zdrowie psychiczne? Proszę odpowiedzieć w pl."
     ]
   }
 }
