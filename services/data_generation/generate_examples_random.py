@@ -6,6 +6,7 @@ from typing import List, Dict
 from dotenv import load_dotenv
 import time
 from openai import OpenAI
+import random
 
 load_dotenv()
 
@@ -43,6 +44,50 @@ class ExampleGenerator:
             return question.rsplit("Proszę odpowiedzieć w", 1)[0].strip()
         return question
 
+    def clean_text(self, text: str) -> str:
+        """Clean text to ensure valid JSON and remove English"""
+        # List of English text markers
+        english_markers = [
+            'Okay', 'Let me', 'First', 'I know', 'I should', 'Maybe',
+            'Looking at', 'The user', 'Now', 'However', 'Also',
+            'For example', 'Then', 'So,', 'Wait,', 'Alright',
+            'Moving to', 'Next,', 'Finally,', 'Therefore'
+        ]
+
+        # Split text into lines and find first Polish line
+        lines = text.split('\n')
+        polish_text = ""
+        
+        # Look for Odpowiedź marker first
+        for marker in ["**Odpowiedź:**", "Odpowiedź:"]:
+            if marker in text:
+                polish_text = text.split(marker)[1].strip()
+                break
+                
+        # If no marker found, find first non-English line
+        if not polish_text:
+            for line in lines:
+                line = line.strip()
+                if line and not any(marker in line for marker in english_markers):
+                    polish_text = line
+                    break
+
+        if not polish_text:
+            raise ValueError(f"No Polish text found in response:\n{text}")
+
+        # Clean up the text
+        text = polish_text.replace('\u0000', '')
+        text = text.replace('\u001f', '')
+        text = text.replace('空白', '')
+        text = text.replace('\ufffd', '')
+        text = text.replace('\r', '')
+        text = text.replace('\t', ' ')
+        
+        # Keep newlines for formatting but clean up multiple spaces
+        text = '\n'.join(' '.join(line.split()) for line in text.split('\n'))
+        
+        return text
+
     def generate_answer(self, question: str) -> str:
         """Generate an answer for a question using Deepseek"""
         print(f"\nGenerating answer for question: '{question}'")
@@ -65,20 +110,7 @@ class ExampleGenerator:
             )
             
             answer = completion.choices[0].message.content.strip()
-            
-            # Skip English reasoning and get just the Polish answer
-            if "Okay" in answer or "Let me" in answer:
-                if "**Odpowiedź:**" in answer:
-                    answer = answer.split("**Odpowiedź:**")[1].strip()
-                elif "Odpowiedź:" in answer:
-                    answer = answer.split("Odpowiedź:")[1].strip()
-                else:
-                    # If no marker found, try to find the Polish text
-                    lines = answer.split('\n')
-                    for i, line in enumerate(lines):
-                        if line.strip() and not line.startswith(('Okay', 'Let me', 'First')):
-                            answer = '\n'.join(lines[i:])
-                            break
+            answer = self.clean_text(answer)  # Clean once and done
             
             print(f"Generated answer: {answer}")
             return answer
@@ -87,8 +119,8 @@ class ExampleGenerator:
             print(f"Deepseek API error: {e}")
             return ""
 
-    def process_questions_and_generate_examples(self):
-        """Main process to generate examples from questions"""
+    def process_questions_and_generate_examples(self, num_examples: int = 100):
+        """Main process to generate examples from randomly selected questions"""
         questions_file = self.data_dir / f"questions_{self.target_lang}.json"
         if not questions_file.exists():
             raise FileNotFoundError(f"Questions file not found: {questions_file}")
@@ -96,6 +128,22 @@ class ExampleGenerator:
         print("Reading questions file...")
         with open(questions_file, 'r', encoding='utf-8') as f:
             questions_data = json.load(f)
+
+        # Collect all valid questions
+        all_questions = []
+        for noun, data in questions_data.items():
+            for question in data['questions']:
+                clean_question = self.clean_question(question)
+                if clean_question:  # Skip brainstorming text
+                    all_questions.append(clean_question)
+
+        # Randomly select questions
+        if len(all_questions) > num_examples:
+            selected_questions = random.sample(all_questions, num_examples)
+        else:
+            selected_questions = all_questions
+
+        print(f"Selected {len(selected_questions)} questions randomly")
 
         # Prepare output JSON file
         output_file = self.data_dir / f"examples_{self.target_lang}.json"
@@ -108,30 +156,23 @@ class ExampleGenerator:
                 examples = json.load(f)
             print(f"Loaded {len(examples)} existing examples")
         
-        # Process each noun and its questions
-        for noun, data in questions_data.items():
-            print(f"\nProcessing questions for noun: {noun}")
-            for question in data['questions']:
-                clean_question = self.clean_question(question)
+        # Process each selected question
+        for question in selected_questions:
+            answer = self.generate_answer(question)
+            
+            if answer:
+                # Remove prompt before saving
+                final_question = self.strip_answer_prompt(question)
+                examples.append({
+                    "question": final_question,
+                    "answer": answer
+                })
                 
-                if not clean_question:
-                    continue
-                    
-                answer = self.generate_answer(clean_question)
-                
-                if answer:
-                    # Remove prompt before saving
-                    final_question = self.strip_answer_prompt(clean_question)
-                    examples.append({
-                        "question": final_question,
-                        "answer": answer
-                    })
-                    
-                    # Save progress after each example
-                    with open(output_file, 'w', encoding='utf-8') as f:
-                        json.dump(examples, f, ensure_ascii=False, indent=2)
-                
-                time.sleep(0.5)
+                # Save progress after each example
+                with open(output_file, 'w', encoding='utf-8') as f:
+                    json.dump(examples, f, ensure_ascii=False, indent=2)
+            
+            time.sleep(0.5)
 
         print(f"\nExamples saved to {output_file}")
 

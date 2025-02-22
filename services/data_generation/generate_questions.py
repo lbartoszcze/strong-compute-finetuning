@@ -66,13 +66,11 @@ class QuestionGenerator:
         """Generate unique questions about a noun using Deepseek via OpenRouter"""
         print(f"\nGenerating questions for noun: '{noun}'")
         
-        prompt_template = f"""Generate 10 unique questions about '{noun}' in {self.target_lang} language. Make them unique to {self.target_lang}. 
+        prompt = f"""Generate 10 unique questions about '{noun}' in {self.target_lang} language.
         Questions must be in {self.target_lang} language only.
         Make each question different and interesting.
         Add "{self.please_answer}" at the end of each question.
         Return just the questions, one per line."""
-        
-        prompt = self.translate_text(prompt_template)
 
         try:
             completion = self.client.chat.completions.create(
@@ -87,8 +85,19 @@ class QuestionGenerator:
                 temperature=0.9
             )
             
-            questions = completion.choices[0].message.content.split('\n')
-            questions = [q.strip() for q in questions if q.strip()]
+            response = completion.choices[0].message.content.strip()
+            
+            # Extract only the numbered questions in target language
+            questions = []
+            for line in response.split('\n'):
+                line = line.strip()
+                # Skip English text and only take numbered questions
+                if (line and line[0].isdigit() and '. ' in line and 
+                    not line.startswith('Okay') and 
+                    not line.startswith('First') and
+                    not line.startswith('Let me')):
+                    questions.append(line)
+            
             print(f"\nGenerated {len(questions)} questions:")
             for q in questions:
                 print(f"  {q}")

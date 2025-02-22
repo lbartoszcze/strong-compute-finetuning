@@ -133,5 +133,809 @@
       "9. Co oznaczają skurcze brzucha występujące niezwiązane z trawieniem lub cyklem miesięcznym? Proszę odpowiedzieć w pl.",
       "10. Jakie odkrycia naukowe dotyczą jelitowego układu nerwowego zmieniły postrzeganie „brzucha jako drugiego mózgu”? Proszę odpowiedzieć w pl."
     ]
+  },
+  "zdolność": {
+    "translated_noun": "zdolność",
+    "questions": [
+      "1. Jak polskie prawo definiuje zdolność prawną i zdolność do czynności prawnych obywatela? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób zdolności poznawcze uczniów są mierzone w polskim systemie edukacji na przykładzie egzaminów PISA? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją unikalne zdolności adaptacyjne polskich firm w obliczu kryzysów gospodarczych? Proszę odpowiedzieć w pl.",
+      "4. Jakie czynniki wpływają na zdolność polskich miast do zachowania dziedzictwa kulturowego przy dynamicznej modernizacji? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego zdolność językową obcokrajowców uczących się języka polskiego uznaje się za wyjątkowo wymagającą? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób zdolność polskiego społeczeństwa do samoorganizacji przejawia się podczas klęsk żywiołowych? Proszę odpowiedzieć w pl.",
+      "7. Jakie zdolności techniczne były kluczowe dla rozwoju polskiego przemysłu stoczniowego w XX wieku? Proszę odpowiedzieć w pl.",
+      "8. Czy polskie rolnictwo posiada zdolność konkurowania na rynku UE bez subsydiów? Proszę odpowiedzieć w pl.",
+      "9. Jak zmieniała się zdolność operacyjna polskich sił zbrojnych po wstąpieniu do NATO? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób zdolność innowacyjna polskich startupów wpływa na globalne rynki technologiczne? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "nieprawidłowości": {
+    "translated_noun": "nieprawidłowości",
+    "questions": [
+      "1. Jakie są najbardziej kontrowersyjne przypadki nieprawidłowości w polskich wyborach parlamentarnych od 1989 roku? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób nieprawidłowości w przetargach publicznych wpływają na rozwój infrastruktury w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Jakie nieprawidłowości w zarządzaniu funduszami unijnymi były najczęściej wykrywane w polskich samorządach? Proszę odpowiedzieć w pl.",
+      "4. Dlaczego nieprawidłowości w dokumentacji medycznej w Polsce stanowią poważny problem dla pacjentów? Proszę odpowiedzieć w pl.",
+      "5. Jakie historyczne przykłady nieprawidłowości w polskim systemie edukacji wpłynęły na współczesne reformy? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób nieprawidłowości w nadzorze budowlanym przyczyniły się do katastrof infrastrukturalnych w Polsce? Proszę odpowiedzieć w pl.",
+      "7. Jakie są najmniej znane nieprawidłowości w polskim systemie ochrony danych osobowych? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego nieprawidłowości w rozliczeniach podatkowych dużych korporacji w Polsce wciąż budzą społeczne protesty? Proszę odpowiedzieć w pl.",
+      "9. Jakie nieprawidłowości w procesie wydawania decyzji środowiskowych zagrażają polskim parkom narodowym? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób nieprawidłowości w kontroli jakości żywności wpłynęły na rynek produktów ekologicznych w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "zniesienie": {
+    "translated_noun": "zniesienie",
+    "questions": [
+      "1. Jakie są różnice między \"niesieniem\" a \"przenoszeniem\" w kontekście fizycznym i metaforycznym w języku polskim? Proszę odpowiedzieć w pl.",
+      "2. W jakich polskich przysłowiach lub powiedzeniach występuje słowo \"niesienie\" i jakie jest ich znaczenie? Proszę odpowiedzieć w pl.",
+      "3. Czy \"niesienie\" może być używane w języku prawniczym? Podaj przykłady z polskiego kodeksu. Proszę odpowiedzieć w pl.",
+      "4. Jakie emocje mogą wiązać się z \"niesieniem\" w polskiej poezji współczesnej? Proszę odpowiedzieć w pl.",
+      "5. Czy w dialektach regionalnych Polski istnieją unikalne znaczenia słowa \"niesienie\"? Proszę odpowiedzieć w pl.",
+      "6. Jakie techniki ergonomiczne są istotne przy \"niesieniu\" ciężarów w kontekście polskich przepisów BHP? Proszę odpowiedzieć w pl.",
+      "7. Dlaczego \"niesienie\" bywa kluczowym motywem w polskiej literaturze religijnej? Proszę odpowiedzieć w pl.",
+      "8. W jaki sposób \"niesienie\" funkcjonuje w metaforach związanych z rodzicielstwem w kulturze polskiej? Proszę odpowiedzieć w pl.",
+      "9. Czy \"niesienie\" ma zastosowanie w terminologii sportowej w Polsce? Podaj konkretne dyscypliny. Proszę odpowiedzieć w pl.",
+      "10. Jak zmieniała się częstotliwość użycia słowa \"niesienie\" w polskich mediach na przestrzeni ostatniej dekady? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "aborcja": {
+    "translated_noun": "aborcja",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions about abortion in Polish. Let me start by understanding the requirements. They need each question to be unique and tailored specifically to Poland. So I shouldn't just translate general abortion questions; I need to focus on aspects relevant to Polish context.",
+      "First, I should recall current events and laws around abortion in Poland. The Constitutional Tribunal's ruling in 2020 tightened the abortion laws, so that's a key point. Also, the influence of the Catholic Church is significant there. \"Aborcja na życzenie\" (abortion on demand) might be a controversial topic.",
+      "Next, public opinion polls. Maybe ask about how Polish society views abortion in different scenarios, like fetal defects or rape. Access to abortion pills and organizations like Women's Strike (Strajk Kobiet) are important. The role of healthcare providers and conscientious objection could be another angle.",
+      "I should ensure each question addresses a different aspect: legal, social, medical, political. For example, one on legal changes, another on social movements, another on medical access, religious influence, international criticism, etc. Need to avoid repetition. Let me list out possible angles: law changes, social acceptance, protests, medical availability, church's role, political parties, international responses, psychological aspects, consequences for doctors, and comparisons with other countries.",
+      "Now, phrasing each question clearly in Polish, making sure they are distinct. Add \"Proszę odpowiedzieć w pl\" at the end of each. Check for grammar and clarity. Avoid yes/no questions to make them more open-ended. Let me go through each idea one by one.",
+      "1. Constitutional Tribunal ruling in 2020. How did it affect accessibility? That's a solid start.",
+      "2. Catholic Church's influence on public opinion and legislation. Good, ties religion and law.",
+      "3. Public opinion polls on allowing abortion in different situations. Maybe specify cases like danger to life, rape, defects. Use CBOS as a reference.",
+      "4. \"Aborcja na życzenie\" and how it's perceived in political and social debates.",
+      "5. Role of NGOs like Women's Strike in liberalizing laws. Mention methods like protests, education."
+    ]
+  },
+  "uchylenie": {
+    "translated_noun": "uchylenie",
+    "questions": [
+      "Okay, I need to generate 10 unique questions in Polish about \"uchylenie\". Let me start by understanding that \"uchylenie\" can translate to \"repeal\", \"revocation\", or \"dismissal\" in legal contexts.",
+      "First, think about different contexts where \"uchylenie\" is used, like legal, tax, administrative, or court procedures. Maybe include different aspects like consequences, processes, precedents, etc.",
+      "Make sure each question is distinct. Start by listing possible angles:",
+      "1. Tax obligations and revocation of decisions.",
+      "2. Court judgments and appeal processes.",
+      "3. Administrative acts and formal requirements.",
+      "4. Civil vs. administrative law differences.",
+      "5. Legal remedies for administrative decisions.",
+      "6. Deadlines for filing motions.",
+      "7. Employment law contexts, like dismissal of decisions."
+    ]
+  },
+  "brak": {
+    "translated_noun": "brak",
+    "questions": [
+      "1. Jakie są najczęstsze błędy językowe związane z użyciem słowa \"brak\" w języku polskim i jak ich unikać? Proszę odpowiedzieć w pl.",
+      "2. W jakich kontekstach kulturowych Polacy najczęściej odwołują się do pojęcia \"braku\" w przysłowiach czy idiomach? Proszę odpowiedzieć w pl.",
+      "3. Jak literatura polska przedstawia motyw braku miłości lub strat emocjonalnych? Proszę odpowiedzieć w pl.",
+      "4. Czy istnieją specyficzne dla Polski społeczne skutki braku dostępu do edukacji w małych miejscowościach? Proszę odpowiedzieć w pl.",
+      "5. Jak zmieniało się postrzeganie braku surowców naturalnych w historii gospodarczej Polski? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób współczesne technologie wpływają na zmniejszenie poczucia braku w komunikacji międzyludzkiej w Polsce? Proszę odpowiedzieć w pl.",
+      "7. Jakie filozoficzne interpretacje braku celu w życiu można znaleźć w polskiej myśli intelektualnej? Proszę odpowiedzieć w pl.",
+      "8. Czy istnieją unikalne polskie tradycje związane z radzeniem sobie z brakiem lub niedostatkiem? Proszę odpowiedzieć w pl.",
+      "9. Jak media w Polsce opisują problem braku specjalistów w kluczowych zawodach? Proszę odpowiedzieć w pl.",
+      "10. Jak polskie prawo karne odnosi się do kwestii braku zgody w kontekście przestępstw przeciwko wolności seksualnej? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "liczebność": {
+    "translated_noun": "liczebność",
+    "questions": [
+      "1. Jak liczna była populacja żubrów w Puszczy Białowieskiej w 2023 roku? Proszę odpowiedzieć w pl.",
+      "2. Ile osób mieszkało w Polsce według ostatniego spisu powszechnego? Proszę odpowiedzieć w pl.",
+      "3. Jaka była średnia liczba studentów na jednym uniwersytecie w Polsce w ostatniej dekadzie? Proszę odpowiedzieć w pl.",
+      "4. Ile gatunków endemicznych zwierząt w Polsce jest zagrożonych wyginięciem? Proszę odpowiedzieć w pl.",
+      "5. Jaka była liczebność uczestników pielgrzymki na Jasną Górę w 2022 roku? Proszę odpowiedzieć w pl.",
+      "6. Ile ton węgla wydobyto w Polsce w ostatnim roku? Proszę odpowiedzieć w pl.",
+      "7. Jaka była liczba turystów odwiedzających Kopalnię Soli w Wieliczce przed pandemią COVID-19? Proszę odpowiedzieć w pl.",
+      "8. Ile osób uczestniczyło w największym marszu równości w Warszawie? Proszę odpowiedzieć w pl.",
+      "9. Jaka jest szacunkowa liczebność wilków w Karpatach według badań z 2023 roku? Proszę odpowiedzieć w pl.",
+      "10. Ile par łabędzi niemych gniazduje corocznie na Mazurach? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "nadużycia": {
+    "translated_noun": "nadużycia",
+    "questions": [
+      "1. Jakie są najczęstsze formy nadużyć finansowych w polskich organizacjach pozarządowych i jak można im przeciwdziałać? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie prawo karne definiuje nadużycie władzy przez urzędników państwowych? Proszę odpowiedzieć w pl.",
+      "3. Jakie są psychologiczne skutki długotrwałego nadużycia emocjonalnego w rodzinach w Polsce? Proszę odpowiedzieć w pl.",
+      "4. Czy w Polsce istnieją specjalne procedury chroniące whistleblowerów zgłaszających nadużycia w miejscu pracy? Proszę odpowiedzieć w pl.",
+      "5. Jakie narzędzia cyfrowe są najczęściej wykorzystywane do nadużyć w cyberprzestrzeni wśród polskich użytkowników? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób instytucje religijne w Polsce reagują na zgłoszenia nadużyć seksualnych w swoim gronie? Proszę odpowiedzieć w pl.",
+      "7. Jakie czynniki kulturowe utrudniają ofiarom nadużyć domowych w Polsce szukanie pomocy? Proszę odpowiedzieć w pl.",
+      "8. Czy polski system edukacji wprowadza programy prewencyjne dotyczące nadużyć wśród młodzieży szkolnej? Proszę odpowiedzieć w pl.",
+      "9. Jakie są konsekwencje prawne dla firm w Polsce za nadużycia związane z ochroną danych osobowych? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób media społecznościowe w Polsce wpływają na normalizację językowej przemocy i innych form nadużyć online? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "naukowcy": {
+    "translated_noun": "naukowcy",
+    "questions": [
+      "1. Który polski naukowiec zdobył Nagrodę Nobla w dziedzinie chemii i jakie było jego przełomowe odkrycie? Proszę odpowiedzieć w pl.",
+      "2. Jakie kontrowersje wzbudzały w Polsce badania Marii Skłodowskiej-Curie na przełomie XIX i XX wieku? Proszę odpowiedzieć w pl.",
+      "3. Wymień trzy współczesne polskie projekty naukowe, które mają globalny wpływ na rozwój technologii medycznych. Proszę odpowiedzieć w pl.",
+      "4. Jak polscy naukowcy przyczynili się do zrozumienia zmian klimatycznych w kontekście Morza Bałtyckiego? Proszę odpowiedzieć w pl.",
+      "5. Czy w Polsce istnieją unikalne metody edukacji młodych naukowców, różniące się od systemów innych krajów UE? Proszę odpowiedzieć w pl.",
+      "6. Która polska badaczka zasłynęła z prac nad genomem roślin i jaki miało to wpływ na rolnictwo? Proszę odpowiedzieć w pl.",
+      "7. Jaką rolę odegrał Mikołaj Kopernik w kształtowaniu polskiej kultury naukowej poza astronomią? Proszę odpowiedzieć w pl.",
+      "8. W jaki sposób polscy naukowcy współpracują z przemysłem kosmicznym w ramach programu ESA? Proszę odpowiedzieć w pl.",
+      "9. Jakie wyzwania etyczne napotykają polscy genetycy w kontekście edycji genów CRISPR-Cas9? Proszę odpowiedzieć w pl.",
+      "10. Jaką inicjatywę polscy naukowcy podjęli w ostatniej dekadzie, aby chronić zagrożone gatunki w Puszczy Białowieskiej? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akademia": {
+    "translated_noun": "akademia",
+    "questions": [
+      "1. Jakie są najstarsze polskie akademie naukowe i jaki wpływ miały na rozwój edukacji w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polska akademia przyczyniła się do światowych odkryć naukowych w XX wieku? Proszę odpowiedzieć w pl.",
+      "3. Czym wyróżnia się system stopni naukowych w polskiej akademii na tle innych krajów UE? Proszę odpowiedzieć w pl.",
+      "4. Jakie wyzwania związane z cyfryzacją stoją obecnie przed polską akademią? Proszę odpowiedzieć w pl.",
+      "5. Które polskie uniwersytety mają najdłuższą tradycję akademicką i jakie są ich kluczowe kierunki? Proszę odpowiedzieć w pl.",
+      "6. Jakie kontrowersje wzbudza ostatnia reforma szkolnictwa wyższego w Polsce? Proszę odpowiedzieć w pl.",
+      "7. Dlaczego Nagroda Nobla dla Wisławy Szymborskiej jest ważna dla polskiej akademii literatury? Proszę odpowiedzieć w pl.",
+      "8. W jaki sposób polska akademia wspiera młodych naukowców w start-upach technologicznych? Proszę odpowiedzieć w pl.",
+      "9. Jakie inicjatywy polskiej akademii promują współpracę międzynarodową w dziedzinie badań klimatycznych? Proszę odpowiedzieć w pl.",
+      "10. Czemu wydarzenia takie jak \"Noc Naukowców\" są kluczowe dla popularyzacji nauki w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "przyspieszacz": {
+    "translated_noun": "przyspieszacz",
+    "questions": [
+      "1. Jakie są najnowsze zastosowania przyspieszaczy cząstek w polskich ośrodkach badawczych? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób przyspieszacze magnetronowe wpływają na rozwój technologii medycznych w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Czym różnią się polskie projekty przyspieszaczy plazmowych od tych realizowanych za granicą? Proszę odpowiedzieć w pl.",
+      "4. Jakie wyzwania środowiskowe wiążą się z budową przyspieszaczy w Polsce? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego przyspieszacze akumulatorowe są kluczowe dla rozwoju polskiego transportu elektrycznego? Proszę odpowiedzieć w pl.",
+      "6. Jakie innowacje w dziedzinie przyspieszaczy cząstek wprowadzili polscy naukowcy w ostatniej dekadzie? Proszę odpowiedzieć w pl.",
+      "7. W jaki sposób przyspieszacze są wykorzystywane w polskim przemyśle kosmicznym? Proszę odpowiedzieć w pl.",
+      "8. Jakie korzyści ekonomiczne przynosi Polsce udział w międzynarodowych projektach przyspieszaczy? Proszę odpowiedzieć w pl.",
+      "9. Czy w Polsce istnieją inicjatywy edukacyjne dotyczące przyspieszaczy dla młodzieży? Proszę odpowiedzieć w pl.",
+      "10. Jak przyspieszacze mogą wspierać dekarbonizację polskiej energetyki? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akcelerator": {
+    "translated_noun": "akcelerator",
+    "questions": [
+      "1. Jakie są najważniejsze polskie projekty badawcze wykorzystujące akceleratory cząstek i jaki jest ich cel? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie start-upy mogą skorzystać z programów akceleratorowych oferowanych przez lokalne inkubatory technologiczne? Proszę odpowiedzieć w pl.",
+      "3. Czym różnią się akceleratory grafenowe opracowywane w Polsce od rozwiązań zagranicznych? Proszę odpowiedzieć w pl.",
+      "4. Jakie wyzwania środowiskowe wiążą się z budową i eksploatacją akceleratorów w polskich ośrodkach naukowych? Proszę odpowiedzieć w pl.",
+      "5. Czy w Polsce powstają akceleratory medyczne do leczenia nowotworów i jak działają? Proszę odpowiedzieć w pl.",
+      "6. Jaką rolę odgrywają akceleratory w rozwoju polskiej sztucznej inteligencji i superszybkich obliczeń? Proszę odpowiedzieć w pl.",
+      "7. Czy istnieją w Polsce programy edukacyjne dla młodzieży tłumaczące zasadę działania akceleratorów cząstek? Proszę odpowiedzieć w pl.",
+      "8. W jaki sposób polskie prawo reguluje bezpieczeństwo związane z użytkowaniem akceleratorów przemysłowych? Proszę odpowiedzieć w pl.",
+      "9. Jakie korzyści ekonomiczne przynosi Polsce uczestnictwo w międzynarodowych projektach akceleratorowych, takich jak CERN? Proszę odpowiedzieć w pl.",
+      "10. Czy w polskiej historii nauki były próby budowy autorskich akceleratorów przed II wojną światową? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akcent": {
+    "translated_noun": "akcent",
+    "questions": [
+      "Okay, let me start by understanding the user's request. They want me to generate 10 unique questions in Polish about 'accent', making sure they're specifically relevant to Poland. Each question must be different and interesting, and end with \"Proszę odpowiedzieć w pl\". And only the questions, one per line.",
+      "First, I need to think about the aspects of accents that are pertinent to Poland. Maybe dialects within Polish, how accents affect social perceptions, regional differences. Also, consider language learning aspects, like how Poles handle foreign accents when speaking other languages. Then there's the influence of media, education, and whether there's a standard accent taught in schools.",
+      "Wait, uniqueness is key. Let me brainstorm topics: regional accents in Poland (like Silesian, Kashubian), how accents influence job opportunities, perception of foreign accents in Polish media, the role of accent in Polish language identity, challenges Poles face when learning other languages' accents, historical changes in Polish accents, technology and accent recognition tools for Polish, stereotypes based on accents, comparison of Polish regional accents to other countries, and maybe the impact of urbanization on accents.",
+      "Need to ensure each question is distinct. Let me check for overlap. Regional dialects, media representation, education, job market, technology, history, stereotypes, comparison with other languages, urbanization effects, and learners' challenges – that covers 10. Each addresses a different angle. Also, phrasing them in Polish but making sure they're clear and end with the required sentence. Gotta avoid repetition. Let me draft each question carefully, making sure they’re all open-ended and prompt a detailed response. Yeah, that should work. Double-checking the uniqueness and relevance to Poland. Okay, ready to list them.",
+      "1. Jakie są najczęstsze cechy charakterystyczne polskiego akcentu regionalnego w dialekcie śląskim? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób akcent wpływa na postrzeganie przynależności społecznej lub edukacyjnej w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieje \"standardowy\" polski akcent nauczany w szkołach językowych za granicą? Proszę odpowiedzieć w pl.",
+      "4. Jakie trudności napotykają Polacy uczący się akcentu języka angielskiego? Proszę odpowiedzieć w pl.",
+      "5. Czy w mediach polskich preferuje się konkretny akcent, np. warszawski czy krakowski? Proszę odpowiedzieć w pl.",
+      "6. Jak akcent w języku polskim różni się od intonacji w językach sąsiednich, np. czeskim lub ukraińskim? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "przyjęcie": {
+    "translated_noun": "przyjęcie",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about \"przychodzenie\", which means \"coming\" or \"arriving\". The questions need to be distinct and interesting, each ending with \"Proszę odpowiedzieć w pl\". Let me start by brainstorming different contexts where \"przychodzenie\" might be used.",
+      "First, figurative vs. literal usage. Maybe a question about metaphorical use of the word. That's a good start. Then, maybe cultural aspects. How does Polish culture view punctuality? That could be a social angle.",
+      "Grammatical structure is another angle. Different tenses or aspects of the verb. That's another possibility. Proverbs and sayings could be interesting. I recall that Polish has some expressions related to coming. I should check if \"przychodzenie\" is part of any.",
+      "Philosophers or poets who wrote about the concept. Maybe Milosz? Or other Polish writers. Historical context, like how traditions related to arrival have changed over time. Regional dialects might have variations. Colloquial expressions like \"przychodzenie po swoje\" – slang or idioms.",
+      "Phrasal verbs with \"przychodzić\", like \"przychodzić z pomocą\". Psycholinguistics could explore emotional associations. Lastly, the concept in Polish language learning – common mistakes by learners. That covers various angles: grammar, culture, literature, history, dialects, expressions, learning, etc.",
+      "Now, phrasing each as a question, ensuring they don't overlap. Check that each starts differently and explores a unique facet. Double-check Polish grammar and that they all end with the required phrase. Make sure they are all open-ended and interesting. Avoid yes/no questions. Et voilà, that should do it.",
+      "1. Jakie są najciekawsze znaczenia przenośne czasownika \"przychodzić\" w języku polskim? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób język polski rozróżnia różne aspekty \"przychodzenia\" (np. jednorazowe vs. cykliczne)? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją polskie przysłowia lub powiedzenia zawierające słowo \"przychodzić\" i jakie jest ich pochodzenie? Proszę odpowiedzieć w pl.",
+      "4. Jak koncept \"przychodzenia\" był wykorzystywany w twórczości polskich poetów XX wieku? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "dostęp": {
+    "translated_noun": "dostęp",
+    "questions": [
+      "1. Jakie są największe wyzwania w zapewnieniu równomiernego dostępu do szybkiego internetu na terenach wiejskich w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie prawo reguluje dostęp obywateli do informacji publicznej i jakie są najczęstsze bariery? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego dostęp do specjalistycznej opieki zdrowotnej dla osób z niepełnosprawnościami wciąż pozostaje ograniczony w niektórych regionach Polski? Proszę odpowiedzieć w pl.",
+      "4. Jak rozwój cyfrowych bibliotek wpłynął na dostęp do literatury naukowej dla studentów w Polsce? Proszę odpowiedzieć w pl.",
+      "5. Czy program \"Dostępność Plus\" skutecznie poprawia dostępność przestrzeni publicznych dla seniorów w mniejszych miastach? Proszę odpowiedzieć w pl.",
+      "6. W jakim stopniu dostęp do tanich mieszkań komunalnych w Warszawie wpływa na migrację wewnętrzną w Polsce? Proszę odpowiedzieć w pl.",
+      "7. Jakie innowacje technologiczne zwiększają dostęp do edukacji dla dzieci z terenów dotkniętych ubóstwem energetycznym? Proszę odpowiedzieć w pl.",
+      "8. Czy polskie muzea narodowe zapewniają wystarczający dostęp do zasobów kultury dla osób z zagranicy poprzez cyfrowe archiwa? Proszę odpowiedzieć w pl.",
+      "9. Dlaczego dostęp do darmowych porad prawnych dla ofiar przemocy domowej wciąż jest utrudniony w Polsce? Proszę odpowiedzieć w pl.",
+      "10. Jak pandemia COVID-19 zmieniła dostęp do usług bankowych dla osób starszych w regionach wiejskich? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akcesoria": {
+    "translated_noun": "akcesoria",
+    "questions": [
+      "1. Jakie nietypowe akcesoria inspirowane polskim folklorem zdobywają popularność wśród młodych designerów? Proszę odpowiedzieć w pl.",
+      "2. Dlaczego akcesoria z recyklingu stają się coraz popularniejsze w polskich miastach? Proszę odpowiedzieć w pl.",
+      "3. Które lokalne marki w Polsce specjalizują się w akcesoriach dla miłośników górskich wypraw? Proszę odpowiedzieć w pl.",
+      "4. Jak zmieniają się trendy w polskiej biżuterii patriotycznej na przestrzeni ostatniej dekady? Proszę odpowiedzieć w pl.",
+      "5. Czy istnieją akcesoria kulinarne charakterystyczne wyłącznie dla polskiej tradycji kuchennej? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób akcesoria dla rowerzystów dostosowują się do specyfiki polskich dróg? Proszę odpowiedzieć w pl.",
+      "7. Jakie akcesoria DIY najczęściej tworzą Polacy w domowych warsztatach? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego torby z tkanin ludowych zyskują drugie życie w polskiej modzie miejskiej? Proszę odpowiedzieć w pl.",
+      "9. Które akcesoria dla zwierząt domowych cieszą się największym zainteresowaniem w Polsce? Proszę odpowiedzieć w pl.",
+      "10. Czy polscy projektanci tworzą unikalne akcesoria związane z symboliką historycznych wydarzeń? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "wypadek": {
+    "translated_noun": "wypadek",
+    "questions": [
+      "1. Jakie są najczęstsze przyczyny wypadków drogowych w Polsce w okresie zimowym? Proszę odpowiedzieć w pl.",
+      "2. Jakie kroki prawne należy podjąć po wypadku przy pracy w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Czy w Polsce istnieją programy prewencyjne zmniejszające liczbę wypadków na budowach? Proszę odpowiedzieć w pl.",
+      "4. Jakie są statystyki wypadków spowodowanych przez pieszych w polskich miastach? Proszę odpowiedzieć w pl.",
+      "5. W jaki sposób polskie prawo definiuje \"wypadek komunikacyjny\" a \"kolizję\"? Proszę odpowiedzieć w pl.",
+      "6. Jakie wsparcie psychologiczne oferuje państwo polskie ofiarom wypadków ciężkich? Proszę odpowiedzieć w pl.",
+      "7. Jakie różnice występują w procedurach zgłaszania wypadków drogowych a wypadków w rolnictwie w Polsce? Proszę odpowiedzieć w pl.",
+      "8. Czy w Polsce obowiązkowe jest posiadanie kamery samochodowej w przypadku uczestnictwa w wypadku? Proszę odpowiedzieć w pl.",
+      "9. Jakie zmiany w przepisach ruchu drogowego wprowadzono w Polsce ostatnio, aby zapobiec wypadkom? Proszę odpowiedzieć w pl.",
+      "10. Jakie są najnowsze dane dotyczące wypadków z udziałem hulajnóg elektrycznych w polskich aglomeracjach? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "zakwaterowanie": {
+    "translated_noun": "zakwaterowanie",
+    "questions": [
+      "Jakie są najpopularniejsze formy zakwaterowania w polskich górach i czym się różnią od siebie? Proszę odpowiedzieć w pl.",
+      "Jak legalnie wynająć pokój w Polsce i na co zwrócić uwagę w umowie? Proszę odpowiedzieć w pl.",
+      "Czy agroturystyka w Polsce wymaga specjalnych zezwoleń i jakie warunki musi spełniać? Proszę odpowiedzieć w pl.",
+      "Jakie są różnice w cenach zakwaterowania między dużymi miastami (np. Warszawa, Kraków) a mniejszymi miejscowościami w Polsce? Proszę odpowiedzieć w pl.",
+      "Czy w Polsce istnieją tradycyjne formy zakwaterowania, np. drewniane chaty, i gdzie ich szukać? Proszę odpowiedzieć w pl.",
+      "Jak zabezpieczyć się przed oszustwami przy rezerwacji noclegów online w Polsce? Proszę odpowiedzieć w pl.",
+      "Czy polskie schroniska młodzieżowe oferują zniżki dla studentów zagranicznych? Proszę odpowiedzieć w pl.",
+      "Jakie są zasady dotyczące wynajmu krótkoterminowego (np. przez Airbnb) w Polsce i czy wymaga on rejestracji? Proszę odpowiedzieć w pl.",
+      "Czy w Polsce są hotele lub hostele przystosowane dla osób z niepełnosprawnościami i gdzie ich szukać? Proszę odpowiedzieć w pl.",
+      "Jak pandemia wpłynęła na dostępność i ceny zakwaterowania w turystycznych regionach Polski? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akompaniator": {
+    "translated_noun": "akompaniator",
+    "questions": [
+      "Okay, let me try to work through this query. The user wants 10 unique questions about \"akompaniator\" in Polish. First, I need to understand what \"akompaniator\" means. From my knowledge, it translates to \"accompanist\" in English, someone who provides musical accompaniment, often on piano or another instrument.",
+      "Now, the user specified that the questions should be in Polish, so I need to make sure all questions are correctly phrased in that language. Also, each question needs to be unique and interesting. They don't want repetitive or generic questions. Let me brainstorm different angles to approach this topic.",
+      "Maybe start with the role of an accompanist in various musical contexts—like concerts, competitions, education. Then think about skills required, differences between solo and accompaniment, historical aspects, challenges they face, psychological aspects like collaboration, technical skills like improvisation, and their presence in different music genres.",
+      "Wait, each question should end with \"Proszę odpowiedzieć w pl\". I should check if that's properly added. Also, uniqueness: ensure each question covers a different aspect. Let me list out possible topics:",
+      "1. Role in music competitions",
+      "2. Skills needed for theater vs. concerts",
+      "3. Historical development in Poland",
+      "4. Difference from soloist",
+      "5. Collaboration with singers",
+      "6. Improvisation skills"
+    ]
+  },
+  "realizacja": {
+    "translated_noun": "realizacja",
+    "questions": [
+      "Jakie są największe wyzwania w realizacji projektów międzynarodowych w branży IT? Proszę odpowiedzieć w pl.",
+      "Czym różni się realizacja celów krótkoterminowych od długoterminowych w kontekście rozwoju osobistego? Proszę odpowiedzieć w pl.",
+      "Jak mierzyć skuteczność realizacji strategii marketingowej w małych firmach? Proszę odpowiedzieć w pl.",
+      "Jakie są kluczowe etapy realizacji produkcji filmowej niezależnego studia? Proszę odpowiedzieć w pl.",
+      "W jaki sposób realizacja projektów edukacyjnych wpływa na lokalne społeczności w Polsce? Proszę odpowiedzieć w pl.",
+      "Jakie błędy najczęściej popełniają startupy podczas realizacji MVP (Minimum Viable Product)? Proszę odpowiedzieć w pl.",
+      "Jak realizacja inwestycji infrastrukturalnych w Polsce wpływa na gospodarkę regionów? Proszę odpowiedzieć w pl.",
+      "Jakie czynniki utrudniają realizację zrównoważonych praktyk w branży modowej? Proszę odpowiedzieć w pl.",
+      "Czy realizacja idei smart city w polskich metropoliach przynosi wymierne korzyści mieszkańcom? Proszę odpowiedzieć w pl.",
+      "Jakie wyzwania prawno-administracyjne towarzyszą realizacji projektów budowlanych w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "zgoda": {
+    "translated_noun": "zgoda",
+    "questions": [
+      "Okay, the user wants 10 unique questions about 'zgoda' (which means consent in Polish) in Polish. They need to be unique to Poland, only in Polish, each different and interesting. Plus, each question must end with \"Proszę odpowiedzieć w pl\".",
+      "First, I need to make sure I understand the term 'zgoda' in the Polish context. It could relate to legal consent, social agreements, GDPR, historical treaties, etc. To make them unique to Poland, I should reference Polish laws, historical events, cultural aspects.",
+      "Let me brainstorm different angles. Legal aspects like GDPR (RODO in Polish), medical consent, marriage consent, historical agreements like the Polish-Lithuanian Union, social movements like women's rights protests. Maybe parental consent for minors, consent in data processing, tenant agreements. Also, compare Polish laws with others like GDPR vs. local implementations. Include cultural specifics like age of consent differences.",
+      "Now, generate questions. Ensure each is distinct. Maybe start with RODO vs. EU. Then historical, like the unions. Then medical consent age. Social movements with \"zgoda\" in slogans. Parental consent for events. Data processing changes post-GDPR. Consent in clinical trials. Tenant vs. owner consent. Philosophical approach in education. Age of consent differences in PL vs. others.",
+      "Need to check each for uniqueness and relevance. Avoid overlap. Ensure they end properly. Use proper Polish terminology. Maybe include different sectors: legal, medical, historical, social, education, tenancy, data, etc.",
+      "Let me list them out and count to 10.",
+      "1. Jakie są kluczowe różnice między polską \"zgoda\" w rozumieniu RODO a unijną interpretacją tego pojęcia? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób historyczne ugody szlacheckie, takie jak konfederacja warszawska, wpłynęły na współczesne pojmowanie zgody w polskim prawie? Proszę odpowiedzieć w pl.",
+      "3. Czy w Polsce istnieją specyficzne przepisy dotyczące wyrażania zgody na leczenie osób niepełnosprawnych intelektualnie? Proszę odpowiedzieć w pl.",
+      "4. Jak zmieniło się podejście do zgody małżeńskiej w polskim prawie od czasów średniowiecza do współczesności? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akordeon": {
+    "translated_noun": "akordeon",
+    "questions": [
+      "Okay, so the user is asking me to generate 10 unique questions about the accordion in Polish. Let me make sure I understand all the requirements correctly. They want the questions to be unique specifically for the Polish language context, so I should focus on things relevant to Poland's culture, history, or notable figures related to the accordion. Each question has to be different and interesting, not just simple facts. Plus, each needs to end with \"Proszę odpowiedzieć w pl.\"",
+      "Hmm, first, I need to come up with different angles. Maybe start with the history of the accordion in Poland. When did it become popular here? Then think about famous Polish accordionists. Are there any well-known musicians or composers? Maybe genres of music in Poland that feature the accordion, like folk or contemporary. What about construction? Are there Polish manufacturers or unique types of accordions made in Poland? Traditional Polish dances that use accordion, like polka or mazurka.",
+      "Also, educational aspects: music schools teaching accordion in Poland. Competitions or festivals focused on accordion in the country. How the accordion is used in modern Polish music versus traditional. Maybe maintenance or where to learn repair in Poland. Role of accordion during historical events, like World War II or the communist era. Technological innovations by Polish makers. Presence in Polish literature or films. Differences between Polish folk accordion styles and other countries.",
+      "Wait, need to check if all these points are valid and specific to Poland. For example, the bayan versus chromatic button accordion—perhaps mention if there's a preference in Poland. Also, ensuring each question is unique and not overlapping. Let me list them out:",
+      "1. History of accordion in Poland's folk music.",
+      "2. Famous Polish accordionist, maybe someone like ...? I might need to research names.",
+      "3. Polish accordion manufacturers, specific brands.",
+      "4. Traditional dances in Poland using accordion.",
+      "5. Accordion in modern Polish music genres.",
+      "6. Competitions or festivals in Poland."
+    ]
+  },
+  "konto": {
+    "translated_noun": "konto",
+    "questions": [
+      "Okay, let me tackle this user's request. They want me to generate 10 unique questions about 'konto' (which means 'account' in Polish) in the Polish language. Each question needs to be different and interesting, ending with \"Proszę odpowiedzieć w pl\". They also specified that the questions must be unique to Poland, so I should consider aspects specific to Polish banking or services.",
+      "First, I need to brainstorm different angles related to accounts in Poland. Maybe start with security features specific to Polish banks. Then think about joint accounts, legal aspects, benefits for seniors, tax implications, checking account features, online banking advancements, corporate accounts, e-currency, loan processes, and promotional offers. Each of these areas could lead to a unique question.",
+      "I should ensure that each question is distinct and covers a different aspect. Also, avoid making them too technical. For example, asking about the registration of corporate accounts with Polish institutions ties into local regulations. Including ZUS or tax office in the tax question makes it relevant to Poland. For seniors, mentioning specific programs like \"Bank Przyjazny Seniorom\" adds uniqueness. Checking about PLN currency features ties into national currency specifics.",
+      "Need to make sure each question ends with the required phrase. Double-check the language to ensure proper Polish and that there are no duplicates. Let me list out the topics again to verify coverage: security measures, joint accounts, legal requirements, senior benefits, tax obligations, PLN account features, online banking, corporate registration, e-currency options, loan procedures, promotional offers. Wait, that's 11, but need 10. Maybe promotional offers can be part of loan processes or a separate one. Adjust accordingly.",
+      "Now, wording each question clearly and naturally. Avoid overlapping topics. For example, tax obligations and ZUS are separate from corporate registration. E-currency against PLN is specific. Loan processes in Polish banks.",
+      "Check if all questions are tailored to Poland's context. For example, e-konto in Polish banking? Maybe online banking advancements like mobile payments or BLIK. Yes, BLIK is a Polish system. Including that would add uniqueness.",
+      "Double-check each question for uniqueness and the required ending. Make sure no markdown is used, just plain text with each question on a new line. Alright, that should cover all the requirements.",
+      "1. Jakie są najskuteczniejsze metody zabezpieczenia konta bankowego przed oszustwami w Polsce? Proszę odpowiedzieć w pl.",
+      "2. Czy w Polsce można założyć wspólne konto bankowe zdalnie, bez wizyty w oddziale? Proszę odpowiedzieć w pl.",
+      "3. Jakie prawne konsekwencje grożą za nielegalne udostępnianie danych konta w świetle polskiego prawa? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "księgowy": {
+    "translated_noun": "księgowy",
+    "questions": [
+      "Okay, let's start. The user wants me to generate 10 unique questions in Polish about \"księgowy\" (accountant). They need to be unique for Poland, so maybe focus on local regulations, certifications, or specific challenges in the Polish context.",
+      "First, I need to ensure each question is distinct. Let me brainstorm topics: qualifications, certifications like Certyfikowany Księgowy, tax laws (maybe mentions of Polish VAT or CIT), career progression, software specific to Poland like wFirma or Insert GT, ethical challenges, impact of EU regulations, differences between accountant roles in Poland vs elsewhere, COVID-19 impacts, micro-company accountants, and maybe recent law changes like JPK.",
+      "Now, transform these into questions. Each question should end with \"Proszę odpowiedzieć w pl\". Avoid repetition. Make sure they're tailored to the Polish context. Check for uniqueness and that they cover different aspects of an accountant's role in Poland. Let me list them out one by one, ensuring they’re each in Polish and address different areas.",
+      "1. Jakie kwalifikacje są wymagane do wykonywania zawodu księgowego w Polsce według aktualnych przepisów? Proszę odpowiedzieć w pl.",
+      "2. Czym różni się rola księgowego w małej firmie od księgowego w korporacji w polskim kontekście prawnym? Proszę odpowiedzieć w pl.",
+      "3. Jakie są najczęstsze wyzwania związane z wdrażaniem oprogramowania do e-księgowości w polskich przedsiębiorstwach? Proszę odpowiedzieć w pl.",
+      "4. Jakie zmiany w polskim prawie podatkowym w 2024 roku mają największy wpływ na pracę księgowych? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego certyfikat Certyfikowany Księgowy (CCA) jest istotny dla specjalistów w Polsce? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób polscy księgowi radzą sobie z raportowaniem JPK w kontekście kontroli skarbowych? Proszę odpowiedzieć w pl.",
+      "7. Jakie są kluczowe różnice między księgowością pełną a uproszczoną w Polsce z perspektywy praktyka? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "księgowość": {
+    "translated_noun": "księgowość",
+    "questions": [
+      "1. Jakie są najnowsze zmiany w ustawie o rachunkowości obowiązujące od 2024 roku w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób ustalić limity kosztów uzyskania przychodów dla działalności gospodarczej opodatkowanej CIT w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Jakie wskaźniki KPI są najczęściej stosowane w polskich firmach do oceny efektywności działów księgowych? Proszę odpowiedzieć w pl.",
+      "4. Czym różni się księgowość memoriałowa od kasowej w kontekście polskich regulacji podatkowych? Proszę odpowiedzieć w pl.",
+      "5. Jakie obowiązki nałożone są na głównego księgowego przez ustawę o rachunkowości w Polsce? Proszę odpowiedzieć w pl.",
+      "6. W jakich sytuacjach przedsiębiorca w Polsce musi złożyć korektę deklaracji VAT-7 i jakie są terminy na jej złożenie? Proszę odpowiedzieć w pl.",
+      "7. Jak cyfryzacja wpłynęła na procesy księgowe w polskich firmach w ostatnich 5 latach? Proszę odpowiedzieć w pl.",
+      "8. Jakie są zasady tworzenia rezerw na należności nieściągalne według polskiego prawa bilansowego? Proszę odpowiedzieć w pl.",
+      "9. Czym jest mechanizm podzielonej płatności (split payment) w VAT i jak wpływa na płynność finansową polskich firm? Proszę odpowiedzieć w pl.",
+      "10. Jakie progi przychodowe obowiązują przy wyborze formy opodatkowania dla jednoosobowej działalności gospodarczej w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "dokładność": {
+    "translated_noun": "dokładność",
+    "questions": [
+      "Alright, let's tackle this query. The user wants 10 unique questions in Polish about 'accuracy'. They need to be unique to Polish, so maybe topics specific to Poland. Let me think about different fields where accuracy is important in Poland.",
+      "First, maybe start with geodetic measurements since Poland has stringent standards there. Then historical data accuracy, important given Poland's rich history. Medical diagnostics is another area, pharmaceuticals are strict. Precision in manufacturing, maybe machinery or automotive industry like in Silesia. Data processing under GDPR, relevant in Poland. Climate research for regions like the Tatra Mountains. Education system evaluations like the matura exam. Translation services, considering Polish's complexity. Financial forecasts with Poland's economy. Lastly, military equipment certification.",
+      "Each question needs to end with the response request in Polish. Let me check if each is unique and covers different sectors. Ensure no repetition and topics are varied. Yes, these should work. Double-check the Polish phrasing for clarity and correctness.",
+      "1. Jakie czynniki najczęściej wpływają na dokładność pomiarów geodezyjnych w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie normy prawne regulują dokładność danych historycznych w archiwach państwowych? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego dokładność diagnostyki medycznej jest kluczowa w kontekście polskiego systemu ochrony zdrowia? Proszę odpowiedzieć w pl.",
+      "4. Jakie metody stosuje się w Polsce do weryfikacji dokładności urządzeń pomiarowych w przemyśle farmaceutycznym? Proszę odpowiedzieć w pl.",
+      "5. Czym różni się dokładność pomiarów zanieczyszczeń powietrza w miastach Polski od standardów unijnych? Proszę odpowiedzieć w pl.",
+      "6. Jakie wyzwania związane z dokładnością danych napotyka polski sektor energetyki odnawialnej? Proszę odpowiedzieć w pl.",
+      "7. W jaki sposób technologie AI wpływają na dokładność prognoz pogody w regionach górskich Polski? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "oskarżenia": {
+    "translated_noun": "oskarżenia",
+    "questions": [
+      "Okay, I need to create 10 unique questions in Polish about 'oskardze'. First, understand that 'oskard' is a type of ice axe used in mountaineering. Wait, but the user wrote 'oskardze', which is the locative case, so maybe questions about its use, history, types, etc. Must ensure each question is distinct and interesting. Let's brainstorm.",
+      "1. History: What's the origin? Maybe first use in the Tatra Mountains.",
+      "2. Construction: How are modern oskards different from historical ones?",
+      "3. Techniques: Correct techniques for using in ice climbing.",
+      "4. Manufacturers: Well-known Polish brands.",
+      "5. Types: Differences between types used in ice vs. mixed climbing.",
+      "6. Maintenance: How to maintain and sharpen.",
+      "7. Role in rescues: How are they used in mountain rescues.",
+      "8. Cultural significance: In Polish mountaineering culture.",
+      "9. Physical aspects: How weight and length affect use."
+    ]
+  },
+  "octan": {
+    "translated_noun": "octan",
+    "questions": [
+      "1. Jaką rolę odgrywa octan w przemyśle spożywczym i farmaceutycznym jako rozpuszczalnik? Proszę odpowiedzieć w pl.",
+      "2. Dlaczego octan etylu jest wykorzystywany w procesach acetylowania w syntezie organicznej? Proszę odpowiedzieć w pl.",
+      "3. Jakie są potencjalne skutki środowiskowe długotrwałego gromadzenia się octanów w ekosystemach wodnych? Proszę odpowiedzieć w pl.",
+      "4. Czym różni się zapach octanu izoamylu od innych estrów kwasu octowego? Proszę odpowiedzieć w pl.",
+      "5. W jaki sposób octan srebra jest stosowany w medycynie i fotografii analogowej? Proszę odpowiedzieć w pl.",
+      "6. Jakie reakcje chemiczne prowadzą do powstania octanu celulozy i do czego jest on wykorzystywany? Proszę odpowiedzieć w pl.",
+      "7. Czy octan winylu może pełnić funkcję monomeru w produkcji tworzyw sztucznych? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego octan glinu jest składnikiem niektórych środków przeciwpotnych? Proszę odpowiedzieć w pl.",
+      "9. Jakie są alternatywne metody otrzymywania octanu sodu bez użycia kwasu octowego? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób struktura molekularna octanu wpływa na jego właściwości higroskopijne? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "osiągnięcie": {
+    "translated_noun": "osiągnięcie",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions about \"osiągniątko\" in Polish. They need to be unique to Poland. Wait, \"osiągniątko\" isn't a standard Polish word. Maybe it's a play on \"osiągnięcie\" (achievement) and a diminutive, like \"little achievement\"? So, they're looking for questions about small or notable achievements in a Polish context.",
+      "First, I should ensure each question is distinct. Topics could include historical events, cultural aspects, technology, social movements, education, sports, environmental efforts, literature, infrastructure, and cuisine.",
+      "Let me brainstorm ideas:",
+      "1. Historical, like Warsaw Uprising. But need to specify recent or past achievement? Maybe a commemoration project.",
+      "2. Cultural heritage, perhaps UNESCO sites, restoration projects.",
+      "3. Tech sector growth, startups, maybe Silicon Valley comparisons.",
+      "4. Social movements, women's rights achievements.",
+      "5. Education reforms or PISA results improvement.",
+      "6. Sports achievements beyond football, like volleyball or athletics.",
+      "7. Renewable energy projects, like wind farms."
+    ]
+  },
+  "achiever": {
+    "translated_noun": "achiever",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about 'achiever'. They need to be interesting and different from each other. Each must end with \"Proszę odpowiedzieć w pl\". I have to make sure they're tailored specifically for a Polish audience.",
+      "First, I'll think about the term 'achiever' – it's someone who achieves goals, succeeds. Maybe relate to Polish culture, societal values. What aspects are important in Poland? Education, career, work-life balance, historical figures, family values. Also, common challenges achievers face.",
+      "Let me brainstorm topics: work-life balance, societal pressure, education system's role, role models in Poland, differences between generations, impact of technology, entrepreneurship, mental health, cultural values, and comparison with other cultures.",
+      "Now phrasing each as a unique question. Ensure they don't repeat angles. For example, work-life balance in Polish context, how education fosters achievers, historical figures as role models, Gen Z vs older generations, tech impact on productivity, entrepreneurship challenges, mental health vs ambition, cultural traits supporting achievement, comparison with other countries, daily habits.",
+      "Check each question ends with the required phrase. Avoid technical terms, keep them conversational. Maybe mix open-ended and specific aspects. Ensure uniqueness: each question addresses a different facet of being an achiever in Poland.",
+      "That should cover 10 distinct, engaging questions tailored for a Polish audience. Double-check for language accuracy and cultural relevance.",
+      "1. Jakie cechy charakteru są najważniejsze, aby stać się prawdziwym \"achieverem\" w polskim kontekście społecznym? Proszę odpowiedzieć w pl.",
+      "2. Czy polski system edukacji skutecznie wspiera rozwój postaw typu \"achiever\" u młodzieży? Proszę odpowiedzieć w pl.",
+      "3. Jakie wyzwania napotykają polscy \"achieverzy\" w dążeniu do sukcesu na globalnym rynku? Proszę odpowiedzieć w pl.",
+      "4. Czy w Polsce istnieją kulturowe bariery utrudniające bycie \"achieverem\", np. syndrom oszusta? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "kwas": {
+    "translated_noun": "kwas",
+    "questions": [
+      "1. Jakie są główne rodzaje kwasów występujących w żywności i jaki mają wpływ na smak? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób kwasy nieorganiczne różnią się od organicznych pod względem struktury chemicznej? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego kwas siarkowy jest uważany za jeden z najważniejszych związków w przemyśle chemicznym? Proszę odpowiedzieć w pl.",
+      "4. Jakie właściwości fizykochemiczne decydują o sile kwasu (np. mocny vs. słaby)? Proszę odpowiedzieć w pl.",
+      "5. W jaki sposób kwas solny w żołądku wpływa na trawienie białek? Proszę odpowiedzieć w pl.",
+      "6. Czym jest \"kwasowa deszcz\" i jakie są jego główne przyczyny powstawania? Proszę odpowiedzieć w pl.",
+      "7. Jakie zastosowanie mają kwasy w produkcji nawozów sztucznych? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego witamina C jest nazywana kwasem askorbinowym i jaką pełni rolę w organizmie? Proszę odpowiedzieć w pl.",
+      "9. Jakie zagrożenia dla środowiska powoduje niewłaściwe składowanie odpadów kwasowych? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób kwasy tłuszczowe omega-3 wpływają na zdrowie układu sercowo-naczyniowego? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akorn": {
+    "translated_noun": "akorn",
+    "questions": [
+      "Okay, let's tackle this task. The user wants 10 unique questions about 'acorn' in Polish. First, make sure each question is distinct and interesting. Since they need to be tailored for Polish speakers, I should consider aspects relevant to Poland, like local ecosystems or uses specific to the region.",
+      "Start with basic facts: what's an acorn, its role in the environment. Then move to cultural significance—maybe Polish traditions or cuisine. Check if acorns are used in Polish dishes or folklore. Maybe historical uses in Poland.",
+      "Avoid repetition. Think about different angles: biology, ecology, usage, culture, history. For example, edible uses, oak tree growth, wildlife dependencies, symbolism. Ensure each question starts with a different word to keep them varied. Verify that all questions are in Polish and end with \"Proszę odpowiedzieć w pl\". Also, ensure uniqueness by covering diverse topics and checking each query addresses a different aspect of acorns. Highlight elements specific to Poland if possible.",
+      "Wait, are acorns edible for humans? Some cultures process them, does Poland have such practices? Maybe traditional uses in folk medicine. Check if any Polish regions have unique names for acorns or oaks. Also, are there endangered species in Poland relying on acorns? Or conservation efforts. Maybe questions about planting acorns for reforestation. Also, pests affecting acorns in Poland.",
+      "Need to form each question clearly, ensuring they are open-ended but specific. Avoid yes/no questions. Make them engaging to prompt a detailed response. Review each to confirm uniqueness and Polish relevance. Alright, compile the list.",
+      "1. Jakie znaczenie ekologiczne mają żołędzie w polskich lasach liściastych? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób żołędzie są wykorzystywane w tradycyjnej polskiej kuchni lub medycynie ludowej? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją gatunki drzew w Polsce, których owoce są mylone z żołędziami? Proszę odpowiedzieć w pl.",
+      "4. Jak długo trwa proces kiełkowania żołędzia i jakie warunki są do tego potrzebne w klimacie Polski? Proszę odpowiedzieć w pl.",
+      "5. Czy żołędzie stanowią ważne źródło pożywienia dla jakichś zagrożonych gatunków zwierząt w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akustyka": {
+    "translated_noun": "akustyka",
+    "questions": [
+      "Alright, let's tackle this query. The user wants 10 unique questions about 'akustyka' in Polish. They must be unique to Polish, interesting, and each followed by \"Proszę odpowiedzieć w pl\".",
+      "First, I need to understand the term 'akustyka'. It translates to 'acoustics' in English. So, the questions should cover various aspects of acoustics relevant to Poland.",
+      "Uniqueness for Poland is key. I should consider cultural, historical, or region-specific elements. Maybe mention Polish scientists, historical buildings in Poland with notable acoustics, or specific Polish terms.",
+      "Next, brainstorming topics: famous Polish acousticians, acoustic features in Polish architecture, Polish language's acoustic properties, traditional Polish instruments, acoustics in Polish theaters, noise pollution in Polish cities, acoustic regulations in Poland, educational institutions offering acoustics in Poland, Polish contributions to acoustic tech.",
+      "Ensure each question is distinct. Avoid overlap. Then, phrasing each in Polish, making sure they end with the required sentence. Check for clarity and uniqueness.",
+      "1. Jakie są najważniejsze cechy akustyki sali koncertowej Filharmonii Narodowej w Warszawie? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób tradycyjne polskie budownictwo drewniane wpływa na propagację dźwięku we wnętrzach? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego akustyka podziemnych kopalni soli w Wieliczce jest przedmiotem badań naukowych? Proszę odpowiedzieć w pl.",
+      "4. Jakie polskie normy prawne regulują dopuszczalny poziom hałasu w miejscach publicznych? Proszę odpowiedzieć w pl.",
+      "5. Czym charakteryzuje się akustyka mowy polskiej w porównaniu z innymi językami słowiańskimi? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "znajomość": {
+    "translated_noun": "znajomość",
+    "questions": [
+      "1. Jakie są historyczne przykłady przejawów \"złojomości\" w polskiej kulturze ludowej? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób \"złojomość\" może wpływać na relacje międzyludzkie w społecznościach wiejskich w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją polskie przysłowia lub powiedzenia nawiązujące do pojęcia \"złojomości\"? Proszę odpowiedzieć w pl.",
+      "4. Jak współczesna psychologia w Polsce interpretuje zjawisko \"złojomości\" w kontekście zachowań grupowych? Proszę odpowiedzieć w pl.",
+      "5. Czy \"złojomość\" może być postrzegana jako strategia przetrwania w kontekście historycznych konfliktów na ziemiach polskich? Proszę odpowiedzieć w pl.",
+      "6. Jakie są etyczne dylematy związane z badaniem \"złojomości\" w polskich społecznościach lokalnych? Proszę odpowiedzieć w pl.",
+      "7. W jaki sposób polska literatura okresu romantyzmu odnosiła się do motywu \"złojomości\"? Proszę odpowiedzieć w pl.",
+      "8. Czy \"złojomość\" ma swoje odpowiedniki w innych kulturach słowiańskich, a jeśli tak, to jak się różnią? Proszę odpowiedzieć w pl.",
+      "9. Jakie metody zarządzania konfliktami mogą neutralizować przejawy \"złojomości\" w polskich miejscach pracy? Proszę odpowiedzieć w pl.",
+      "10. Czy współczesne media w Polsce amplifikują zjawisko \"złojomości\", czy je demaskują? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "nabycie": {
+    "translated_noun": "nabycie",
+    "questions": [
+      "1. Jakie są kluczowe różnice między nabyciem nieruchomości a przedsiębiorstwa w Polsce według Kodeksu cywilnego? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób podatek od czynności cywilnoprawnych (PCC) wpływa na koszt nabycia mieszkania w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Jakie ograniczenia prawne dotyczą nabycia gruntów rolnych przez cudzoziemców w Polsce? Proszę odpowiedzieć w pl.",
+      "4. Dlaczego nabycie zabytkowej kamienicy wiąże się z dodatkowymi obowiązkami w polskim prawie? Proszę odpowiedzieć w pl.",
+      "5. Jakie korzyści i ryzyka niesie nabycie spółki z długami w ramach przejęcia w Polsce? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób obowiązkowa kontrola Inspekcji Ochrony Środowiska może wpłynąć na proces nabycia terenu przemysłowego? Proszę odpowiedzieć w pl.",
+      "7. Czym różni się nabycie prawa użytkowania wieczystego od własności gruntu w polskim systemie prawnym? Proszę odpowiedzieć w pl.",
+      "8. Jak polskie przepisy o przeciwdziałaniu praniu pieniędzy wpływają na procedurę nabycia drogich dóbr luksusowych? Proszę odpowiedzieć w pl.",
+      "9. Jakie dokumenty są niezbędne do nabycia kolekcji dzieł sztuki od prywatnych właścicieli w Polsce? Proszę odpowiedzieć w pl.",
+      "10. Dlaczego nabycie udziałów w spółce z o.o. przez internet wymaga zachowania szczególnej ostrożności w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akr": {
+    "translated_noun": "akr",
+    "questions": [
+      "Jaka jest historia wykorzystania jednostki miary 'akr' w polskim rolnictwie przed wprowadzeniem systemu metrycznego? Proszę odpowiedzieć w pl.",
+      "Czy jednostka 'akr' ma obecnie jakiekolwiek znaczenie prawne w polskim systemie pomiarów gruntów? Proszę odpowiedzieć w pl.",
+      "Jakie są różnice między polskim morgiem a brytyjskim akrem w kontekście historycznym? Proszę odpowiedzieć w pl.",
+      "W których regionach Polski tradycyjnie używano jednostki podobnej do akra i jakie miała lokalne nazwy? Proszę odpowiedzieć w pl.",
+      "Czy akr kiedykolwiek był oficjalnie uwzględniany w polskich dokumentach katastralnych po II wojnie światowej? Proszę odpowiedzieć w pl.",
+      "Jak przeliczyć akry na hektary w kontekście polskich norm geodezyjnych? Proszę odpowiedzieć w pl.",
+      "Dlaczego akr nie został przyjęty jako standard w Polsce pomimo międzynarodowej obecności tej jednostki? Proszę odpowiedzieć w pl.",
+      "Czy istnieją polskie przysłowia lub powiedzenia nawiązujące do jednostki 'akr'? Proszę odpowiedzieć w pl.",
+      "W jaki sposób akr jest przedstawiany w polskich podręcznikach do geografii lub historii w porównaniu do innych jednostek? Proszę odpowiedzieć w pl.",
+      "Czy współczesne polskie projekty agroturystyczne korzystają z jednostki 'akr' w opisach ofert? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akryl": {
+    "translated_noun": "akryl",
+    "questions": [
+      "Okay, so the user wants me to generate 10 unique questions about 'acrylic' in Polish. They specified that each question must be unique to Poland and interesting. Plus, each should end with \"Proszę odpowiedzieć w pl\".",
+      "First, I need to consider what aspects of acrylic are relevant to Poland. Maybe applications in Polish industries, local artists using acrylic, availability in Polish stores, environmental policies regarding disposal in Poland...",
+      "Let me start by brainstorming topics. Acrylic uses in construction, art, medical equipment in Polish hospitals, recycling methods in Poland. Maybe traditional vs. modern uses. Also, regulations in Poland regarding acrylic materials. Polish brands that use acrylic. Education about acrylic in Polish schools or universities.",
+      "Wait, need to make sure each question is distinct. Not just different wording but different angles. Let's check for variety. Maybe some questions are about history, others about environmental impact, some about art, industry, regulations, market trends, comparisons with other materials, DIY culture in Poland, technological innovations.",
+      "Also, verifying that each question ends with the required phrase. And ensuring they're in Polish and tailored to Poland. Let me list possible questions:",
+      "1. Jakie są najnowsze trendy w wykorzystaniu akrylu w polskim projektowaniu wnętrz? Proszę odpowiedzieć w pl.",
+      "2. Czy w Polsce obowiązują specjalne przepisy dotyczące utylizacji odpadów akrylowych? Proszę odpowiedzieć w pl.",
+      "3. Jakie polskie firmy specjalizują się w produkcji przedmiotów z akrylu i czym się wyróżniają? Proszę odpowiedzieć w pl.",
+      "4. W jaki sposób polscy artyści współcześni wykorzystują akryl w swoich pracach malarskich? Proszę odpowiedzieć w pl.",
+      "5. Czy akryl jest popularnym materiałem wśród polskich hobbystów modelarstwa? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "działanie": {
+    "translated_noun": "działanie",
+    "questions": [
+      "1. Jak działa system opieki zdrowotnej w Polsce w czasie kryzysu? Proszę odpowiedzieć w pl.",
+      "2. Na czym polegają mechanizmy działania polskiego systemu emerytalnego? Proszę odpowiedzieć w pl.",
+      "3. W jaki sposób działa technologia oczyszczania ścieków w polskich miastach? Proszę odpowiedzieć w pl.",
+      "4. Jak funkcjonuje system zgłaszania nadzwyczajnych zagrożeń (np. smog) w aplikacjach rządowych w Polsce? Proszę odpowiedzieć w pl.",
+      "5. Jakie są zasady działania spółdzielni mieszkaniowych w Polsce? Proszę odpowiedzieć w pl.",
+      "6. Na czym polega działanie platformy ePUAP w kontekście załatwiania spraw urzędowych? Proszę odpowiedzieć w pl.",
+      "7. Jak działa mechanizm rekompensat za opóźnione pociągi w polskiej kolei? Proszę odpowiedzieć w pl.",
+      "8. W jaki sposób funkcjonują lokalne grupy odbiorców energii (klastry energii) w Polsce? Proszę odpowiedzieć w pl.",
+      "9. Jak działa system monitoringu jakości powietrza w polskich gminach? Proszę odpowiedzieć w pl.",
+      "10. Na czym polega działanie programu \"Mój Prąd\" w kontekście wsparcia fotowoltaiki? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "aktywacja": {
+    "translated_noun": "aktywacja",
+    "questions": [
+      "1. Jakie kroki należy podjąć, by aktywować kartę SIM w polskiej sieci komórkowej po wprowadzeniu nowych przepisów RODO? Proszę odpowiedzieć w pl.",
+      "2. Czym różni się aktywacja karty bankowej przez BLIK od tradycyjnych metod w polskich bankach? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego aktywacja systemu Windows w instytucjach publicznych w Polsce wymaga specjalnych licencji? Proszę odpowiedzieć w pl.",
+      "4. Jak przebiega aktywacja Profilu Zaufanego w kontekście nowej odsłony platformy ePUAP? Proszę odpowiedzieć w pl.",
+      "5. W jaki sposób aktywować kartę miejską w Warszawie po zmianie dostawcy systemu transportu? Proszę odpowiedzieć w pl.",
+      "6. Czy aktywacja e-recepty w Polsce wymaga potwierdzenia przez lekarza rodzinnego? Proszę odpowiedzieć w pl.",
+      "7. Jakie dokumenty są potrzebne do aktywacji elektronicznej legitymacji studenckiej (ELS) w Polsce? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego aktywacja przedpłaconego licznika energii elektrycznej wiąże się z kodem QR w polskich gminach? Proszę odpowiedzieć w pl.",
+      "9. Jakie błędy najczęściej uniemożliwiają aktywację kodu promocyjnego na Allegro w Polsce? Proszę odpowiedzieć w pl.",
+      "10. Czy aktywacja funkcji ogrzewania postojowego w samochodzie wymaga wizyty u dealera w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "działacz": {
+    "translated_noun": "działacz",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about 'dzialacza'. First, I need to figure out what 'dzialacza' refers to. It might be a typo. 'Działacza' in Polish means an activist or a person who is active in some field, maybe social or political. Alternatively, if it's a brand name or a specific term, but since it's in quotes, probably the user meant 'działacza' as an activist.",
+      "So, the questions need to be unique and specifically tailored for Polish context. Each question must end with \"Proszę odpowiedzieć w pl\". Each on a separate line, just the questions, nothing else. Let me brainstorm topics related to działacza (activist): challenges in Poland, historical figures, legal aspects, social impact, motivations, technology's role, education's influence, health issues, youth involvement, ethical dilemmas.",
+      "Can't repeat the same angle. Need to make sure each question is distinct. Let me start drafting:",
+      "1. Challenges faced by activists in Poland today.",
+      "2. Historical Polish activists and their impact.",
+      "3. Legal regulations affecting activists in Poland.",
+      "4. Role of social media in activism in Poland.",
+      "5. Education's influence on activist involvement.",
+      "6. Health and burnout among Polish activists.",
+      "7. Youth participation in activism in Poland."
+    ]
+  },
+  "aktor": {
+    "translated_noun": "aktor",
+    "questions": [
+      "Okay, I need to generate 10 unique questions in Polish about 'actors'. The user specified they must be unique to Poland, so I should focus on Polish cinema, famous actors, awards, etc.",
+      "Let me start by brainstorming topics: famous Polish actors, awards like Orły or Polskie Nagrody Filmowe, historical figures, roles in notable Polish films, education (like the National Film School in Łódź), TV shows, theater contributions, international recognition, and maybe dubbing actors.",
+      "Now, creating each question. They need to be different and interesting. I'll avoid repetition. For example, one about the most awards, another about an actor-director, maybe someone known for Shakespeare roles, TV series that launched careers, silent film actors, voice actors for popular characters, actors in political roles, foreign actors in Polish cinema, and acting schools.",
+      "I'll check each to ensure they're unique and pertain specifically to Poland. Add \"Proszę odpowiedzieć w pl\" at the end of each. No markdown, just plain text lines.",
+      "Który polski aktor zdobył najwięcej Nagród im. Zbyszka Cybulskiego i jakie role przyczyniły się do jego sukcesu? Proszę odpowiedzieć w pl.",
+      "Jakie są najbardziej charakterystyczne role filmowe Andrzeja Seweryna w polskim kinie? Proszę odpowiedzieć w pl.",
+      "Która polska aktorka jest znana z kreowania silnych postaci kobiecych w reżyserii Agnieszki Holland? Proszę odpowiedzieć w pl.",
+      "Kto był pierwszym polskim aktorem nominowanym do Europejskiej Nagrody Filmowej za rolę drugoplanową? Proszę odpowiedzieć w pl.",
+      "Jakie wyzwania związane z dialektem podjął Michał Żebrowski podczas gry w filmie \"Ogniem i mieczem\"? Proszę odpowiedzieć w pl.",
+      "Który aktor znany z Teatru Starego w Krakowie zasłynął z interpretacji postaci z dramatów Szekspira? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "aktorka": {
+    "translated_noun": "aktorka",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about 'aktorka' (actress) that are specific to Poland. Let's start by breaking down the requirements.",
+      "First, the questions need to be unique for Poland. So I should focus on Polish actresses, Polish cinema, awards, theaters, TV series, historical aspects, etc. Each question must be distinct and interesting.",
+      "I need to avoid repetition. Let me think of different angles: famous actresses, awards like Orły or Polityka's awards, historical figures, TV vs. theater, international recognition, education (like acting schools), film genres, controversies, and current trends.",
+      "Check if each question targets a different aspect. For example, one about a two-time Oscar nominee (maybe Agnieszka Holland, though she's a director), wait, maybe actors. Wait, actresses from Poland nominated for Oscars? Hmm, maybe I need to verify. Or change to another award.",
+      "Also, questions about specific theaters like Teatr Narodowy or Stary in Kraków. National film festivals in Gdynia. Popular TV series like 'M jak miłość' or 'Na Wspólnej' could be good examples.",
+      "Making sure each question ends with \"Proszę odpowiedzieć w pl\". Ensure no markdown, just plain text, each on a new line. Double-check uniqueness and relevance to Poland. Avoid any duplicates in themes. Let me list them out.",
+      "1. Która polska aktorka zdobyła międzynarodową sławę dzięki roli w filmie \"Zimna wojna\" w reżyserii Pawła Pawlikowskiego? Proszę odpowiedzieć w pl.",
+      "2. Jaka aktorka związana z teatrem Studio w Warszawie jest jednocześnie laureatką Nagrody im. Cypriana Kamila Norwida? Proszę odpowiedzieć w pl.",
+      "3. Kto był pierwszą polską aktorką nominowaną do Europejskiej Nagrody Filmowej za rolę drugoplanową? Proszę odpowiedzieć w pl.",
+      "4. Która polska aktorka grała główną rolę w serialu \"Rojst\" i zdobyła za nią Orła w 2019 roku? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "akupunktura": {
+    "translated_noun": "akupunktura",
+    "questions": [
+      "1. Jakie są najnowsze regulacje prawne dotyczące wykonywania zabiegów akupunktury w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób akupunktura jest postrzegana przez środowisko medyczne w Polsce w porównaniu do innych form medycyny alternatywnej? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją potwierdzone polskie badania naukowe dotyczące skuteczności akupunktury w leczeniu migreny? Proszę odpowiedzieć w pl.",
+      "4. Czy tradycyjna medycyna ludowa w Polsce kiedykolwiek wykorzystywała metody podobne do akupunktury? Proszę odpowiedzieć w pl.",
+      "5. Jakie są koszty typowego cyklu zabiegów akupunkturowych w Polsce i czy są one refundowane przez NFZ? Proszę odpowiedzieć w pl.",
+      "6. Czy w Polsce istnieją specjalne kursy lub certyfikaty dla lekarzy chcących praktykować akupunkturę? Proszę odpowiedzieć w pl.",
+      "7. Jakie są najczęstsze kontrowersje wokół stosowania akupunktury w polskim kontekście kulturowym? Proszę odpowiedzieć w pl.",
+      "8. Czy akupunktura jest wykorzystywana w polskich klinikach jako uzupełnienie leczenia onkologicznego? Proszę odpowiedzieć w pl.",
+      "9. Jakie schorzenia są najczęściej leczone za pomocą akupunktury w Polsce według statystyk? Proszę odpowiedzieć w pl.",
+      "10. Czy w Polsce istnieją stowarzyszenia lub organizacje zrzeszające specjalistów od akupunktury? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "ad": {
+    "translated_noun": "ad",
+    "questions": [
+      "1. Jakie są najczęstsze błędy językowe w polskich reklamach telewizyjnych? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie prawo reguluje reklamy produktów dla dzieci? Proszę odpowiedzieć w pl.",
+      "3. Dlaczego niektóre reklamy w Polsce wykorzystują dialekty regionalne? Proszę odpowiedzieć w pl.",
+      "4. Jakie polskie kampanie reklamowe stały się fenomenem kulturowym? Proszę odpowiedzieć w pl.",
+      "5. Czemu polskie reklamy społeczne często dotyczą bezpieczeństwa na drogach? Proszę odpowiedzieć w pl.",
+      "6. Jak zmieniła się rola reklam radiowych w Polsce w erze cyfrowej? Proszę odpowiedzieć w pl.",
+      "7. Dlaczego w polskich reklamach produktów spożywczych pojawiają się motywy wiejskie? Proszę odpowiedzieć w pl.",
+      "8. Jakie kontrowersje wzbudziły reklamy polityczne w Polsce po 1989 roku? Proszę odpowiedzieć w pl.",
+      "9. W jaki sposób polskie marki lokalne konkurują z globalnymi gigantami w reklamie online? Proszę odpowiedzieć w pl.",
+      "10. Jakie są najdziwniejsze przykłady reklam zewnętrznych (billboardy) w Polsce ostatniej dekady? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "dostosowanie": {
+    "translated_noun": "dostosowanie",
+    "questions": [
+      "Okay, I need to generate 10 unique questions in Polish about 'dostosowanie', which means 'adjustment' or 'adaptation'. Each question must be distinct and interesting. They should end with \"Proszę odpowiedzieć w pl\". Let me start by brainstorming different contexts where 'dostosowanie' applies.",
+      "First, technology adaptation in Poland. Maybe how small businesses adapt to new tech. Then education system changes. Work environments post-pandemic. Cultural adaptation for immigrants. Legal adjustments with EU regulations. Environmental policies. Marketing strategies to Polish consumers. Healthcare during pandemics. Urban development. Social media trends. Now check for uniqueness and cultural relevance. Make sure each area is covered without overlap. Formulate each as a question, end with the required phrase. Translate accurately. Avoid repetition. Double-check grammar and Polish terms. Ensure each question is open-ended but specific.",
+      "Example: \"Jakie są największe wyzwania związane z dostosowaniem polskiego systemu edukacji do wymogów cyfrowej ery? Proszę odpowiedzieć w pl.\"",
+      "Another might involve environmental policies. Then maybe cultural aspects for immigrants. Verify each is unique and fits Polish context. List them out, each on a line, ending correctly.",
+      "1. Jakie strategie mogą wdrażać polskie małe firmy, aby skutecznie dostosować się do dynamicznych zmian na rynku cyfrowym? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie miasta dostosowują infrastrukturę transportową do potrzeb osób z niepełnosprawnościami? Proszę odpowiedzieć w pl.",
+      "3. Jakie są kluczowe bariery w dostosowaniu tradycyjnego rolnictwa w Polsce do wymogów zrównoważonego rozwoju? Proszę odpowiedzieć w pl.",
+      "4. W jaki sposób polski system prawny dostosowuje się do regulacji dotyczących sztucznej inteligencji i automatyzacji? Proszę odpowiedzieć w pl.",
+      "5. Jakie inicjatywy kulturalne pomagają migrantom w Polsce dostosować się do lokalnych tradycji bez utraty tożsamości? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób polskie szkoły wyższe dostosowują programy nauczania do oczekiwań międzynarodowego rynku pracy? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "adapter": {
+    "translated_noun": "adapter",
+    "questions": [
+      "Okay, user wants me to generate 10 unique questions about 'adapter' in Polish. They need to be specific to Polish language context, each different and interesting. Plus, each must end with \"Proszę odpowiedzieć w pl\". Let me start by brainstorming different angles.",
+      "First, technical aspects—maybe types of adapters in electronics. Household use? Like power adapters. Then, maybe software design patterns, like the Adapter pattern. Could mention programming in Polish context. How about military or aviation adapters? Culture-specific uses, like travel adapters for Polish sockets.",
+      "Medical field? Adapters for equipment. Automotive—car adapters in Poland. Historical development in Poland. Language translation tools as adapters. Industrial machinery adapters. Maybe economic impact of adapters in PL market. Environmental impact, recycling. Manufacturing challenges in PL. Legal regulations for adapter safety.",
+      "Wait, need to ensure each question is unique and touches different areas. Let me list some possibilities:",
+      "1. Household electronics: types of power adapters. Common brands in Poland.",
+      "2. Programming: Adapter design pattern examples in PL software.",
+      "3. Travel: Socket adapters for Polish tourists.",
+      "4. Automotive: Adapters in Polish car industry.",
+      "5. History: Adapter tech evolution in PL.",
+      "6. Medical: Equipment adapters in PL hospitals."
+    ]
+  },
+  "uzależnienie": {
+    "translated_noun": "uzależnienie",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about addiction, tailored specifically for Poland. Let me start by considering various aspects of addiction relevant to the Polish context.",
+      "First, societal impact. How does addiction affect society in Poland? Maybe compare rural and urban areas. That could highlight regional differences unique to the country.",
+      "Next, education. Are there specific programs in Polish schools addressing addiction? I can check if \"Nie pal przy mnie, proszę\" is still active as an example.",
+      "Legislation is another angle. Recent laws in Poland regarding alcohol or drug availability might be a good topic. The 24-hour booze sale ban comes to mind from a few years ago.",
+      "Healthcare policies. How does NHF (NFZ) handle addiction treatment? Are there funding issues or specific policies they follow?",
+      "Cultural factors. Maybe religious influences, like the Catholic Church's role in prevention. That's a unique aspect in Poland.",
+      "Technology addiction among youth seems relevant, especially with rising smartphone usage. How does it compare to other countries?",
+      "The pandemic's effect on addiction rates in Poland would be timely. Increased alcohol sales data could support this.",
+      "Traditional medicine use in treating addiction in Poland—maybe practices like herbal treatments or sanatoriums?",
+      "Economic costs to the country. Are there studies estimating the financial burden of addiction on Poland's economy?"
+    ]
+  },
+  "dodatek": {
+    "translated_noun": "dodatek",
+    "questions": [
+      "1. Jakie są najczęściej stosowane dodatki do żywności w Polsce i czy są one bezpieczne dla zdrowia? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób polskie prawo reguluje użycie dodatków konserwujących w produktach spożywczych? Proszę odpowiedzieć w pl.",
+      "3. Czy w Polsce istnieją tradycyjne potrawy, które zawierają naturalne dodatki niewystępujące w innych kuchniach świata? Proszę odpowiedzieć w pl.",
+      "4. Jakie kontrowersje wzbudzają sztuczne dodatki do żywności wśród polskich konsumentów? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego niektóre dodatki do żywności dopuszczone w UE są zakazane w innych krajach, i jak to wygląda w Polsce? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób dodatki smakowe wpływają na popularność polskich przekąsek, takich jak chipsy czy paluszki? Proszę odpowiedzieć w pl.",
+      "7. Czy w Polsce prowadzi się badania nad zastąpieniem sztucznych dodatków w żywności ich naturalnymi odpowiednikami? Proszę odpowiedzieć w pl.",
+      "8. Jakie dodatki do pieczywa są najczęściej stosowane w polskich piekarniach i czy mają one wpływ na jakość chleba? Proszę odpowiedzieć w pl.",
+      "9. Dlaczego polscy producenci żywności coraz częściej reklamują produkty jako \"bez dodatku cukru\" lub \"bez konserwantów\"? Proszę odpowiedzieć w pl.",
+      "10. Jakie dodatki do napojów energetycznych są uważane za najbardziej szkodliwe w opinii polskich dietetyków? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "adres": {
+    "translated_noun": "adres",
+    "questions": [
+      "Okay, so the user wants me to generate 10 unique questions about 'address' in Polish. Let me break this down. First, each question has to be unique and interesting. They should be specifically tailored for Polish language and culture. Also, each one needs to end with \"Proszę odpowiedzieć w pl\".",
+      "Let's start brainstorming. Maybe start with common address questions but twist them to make them unique. For example, legal requirements when changing an address in Poland. That's practical and country-specific. Then think about digital forms—maybe how addresses are formatted on Polish websites. That's a good angle.",
+      "What about emergency services? How addresses are verified if someone calls 112 in Poland. That's specific to Poland and relevant. Then cultural aspects—like traditional ways of writing addresses in rural areas vs. cities. Interesting point, shows regional differences.",
+      "Postal codes are another area. Decoding a Polish postal code to get info about the region. That's technical but useful. For foreigners registering a residence—what address-related documents are needed. Targets expats, which is a specific audience.",
+      "Temporary addresses for nomadic people. Does Poland have any solutions for that? Modern and niche. Historical addresses—how they were formatted in the 19th century. Adds a historical twist. Addresses for homeless individuals accessing social services. Social issue angle, shows depth.",
+      "Data protection laws in Poland regarding sharing addresses. Legal aspect, important for privacy. Each question covers different angles: legal, technical, historical, cultural, social. That should ensure uniqueness. Check for repetition and make sure all are in Polish with the required ending.",
+      "1. Jakie są wymagane elementy adresu w Polsce według najnowszych przepisów pocztowych? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób adresy są weryfikowane pod kątem poprawności w systemach online w Polsce? Proszę odpowiedzieć w pl.",
+      "3. Czy w Polsce obowiązują specjalne zasady formatowania adresów w korespondencji urzędowej? Proszę odpowiedzieć w pl.",
+      "4. Jakie różnice występują między adresem zameldowania a adresem zamieszkania w kontekście polskiego prawa? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "przymiotnik": {
+    "translated_noun": "przymiotnik",
+    "questions": [
+      "1. Jakie są trzy podstawowe stopniowania przymiotników w języku polskim i podaj przykład każdego z nich? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób przymiotniki dzierżawcze (np. “ojcowy”) odmieniają się przez przypadki w języku polskim? Proszę odpowiedzieć w pl.",
+      "3. Czym różnią się przymiotniki nieodmienne w języku polskim od typowych przymiotników? Podaj przykłady. Proszę odpowiedzieć w pl.",
+      "4. Jak tworzy się przymiotniki odrzeczownikowe od nazw miast zagranicznych, takich jak \"Paryż\" lub \"Wiedeń\"? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego przymiotniki typu \"boski\" mają inne końcówki w mianowniku liczby pojedynczej"
+    ]
+  },
+  "korekta": {
+    "translated_noun": "korekta",
+    "questions": [
+      "Alright, the user wants me to generate 10 unique questions in Polish about \"korekta,\" which means \"proofreading\" or \"correction.\" Each question must be distinct, interesting, and end with \"Proszę odpowiedzieć w pl.\" Let me start by brainstorming different angles related to korekta in Polish context.",
+      "First, the basic definition is a good start but needs to be phrased uniquely. Maybe ask about effective proofreading methods. Then, think about tools or software used in Poland specifically. I can also touch on common mistakes by Polish writers, challenges in proofreading Polish literature, and differences from other languages. Including aspects like contracting professionals, automated vs manual processes, education, history, and academic requirements can add variety.",
+      "I need to ensure each question is unique and doesn't overlap. Let me check each one for distinctness and relevance to Polish language specifics. Also, confirm that all end with the required phrase. Yes, that should cover various facets of korekta. Time to format them correctly, each on a new line without numbering.",
+      "1. Jakie są najskuteczniejsze metody korekty tekstów naukowych w języku polskim? Proszę odpowiedzieć w pl.",
+      "2. Czym różni się korekta językowa od redakcji tekstu w kontekście polskich norm edytorskich? Proszę odpowiedzieć w pl.",
+      "3. Jakie narzędzia online są szczególnie przydatne do korekty tekstów w języku polskim? Proszę odpowiedzieć w pl.",
+      "4. Jakie błędy gramatyczne najczęściej popełniają rodzimi użytkownicy języka polskiego, wymagające korekty? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego korekta tekstów literackich w języku polskim bywa wyzwaniem nawet dla profesjonalistów? Proszę odpowiedzieć w pl.",
+      "6. Jakie są kluczowe różnice w korekcie tekstów prawniczych a kreatywnych w języku polskim? Proszę odpowiedzieć w pl.",
+      "7. W jaki sposób można skutecznie negocjować stawki za usługi korekty tekstów w Polsce? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "admin": {
+    "translated_noun": "admin",
+    "questions": [
+      "1. Jakie są kluczowe wymogi RODO dotyczące administratorów danych w polskich firmach? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób administratorzy systemów w Polsce mogą zabezpieczyć infrastrukturę przed atakami ransomware? Proszę odpowiedzieć w pl.",
+      "3. Czym różni się rola admina w polskich startupach technologicznych od tradycyjnych przedsiębiorstw? Proszę odpowiedzieć w pl.",
+      "4. Jakie certyfikaty IT są najbardziej cenione dla administratorów sieci w Polsce? Proszę odpowiedzieć w pl.",
+      "5. Dlaczego administrowanie serwisami społecznościowymi w Polsce wymaga znajomości lokalnych przepisów? Proszę odpowiedzieć w pl.",
+      "6. Jakie są najczęstsze błędy popełniane przez administratorów baz danych w polskich instytucjach publicznych? Proszę odpowiedzieć w pl.",
+      "7. W jaki sposób praca zdalna wpłynęła na obowiązki adminów w polskich korporacjach po 2020 roku? Proszę odpowiedzieć w pl.",
+      "8. Jakie narzędzia do monitorowania sieci są najpopularniejsze wśród adminów w Polsce i dlaczego? Proszę odpowiedzieć w pl.",
+      "9. Jak polskie prawo reguluje odpowiedzialność admina za wyciek danych osobowych? Proszę odpowiedzieć w pl.",
+      "10. Czym charakteryzuje się administrowanie infrastrukturą chmurową w Polsce na tle innych krajów UE? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "podanie": {
+    "translated_noun": "podanie",
+    "questions": [
+      "Jakie elementy są obowiązkowe w formalnym podaniu urzędowym według polskiego prawa? Proszę odpowiedzieć w pl.",
+      "Czy istnieją różnice między podaniem a pismem procesowym w polskim sądownictwie? Proszę odpowiedzieć w pl.",
+      "Dlaczego w niektórych podaniach w Polsce wymaga się potwierdzenia opłaty skarbowej? Proszę odpowiedzieć w pl.",
+      "Jakie błędy językowe najczęściej dyskwalifikują podanie w urzędowej rekrutacji? Proszę odpowiedzieć w pl.",
+      "Czy polskie prawo dopuszcza składanie podań elektronicznych w sprawach administracyjnych? Proszę odpowiedzieć w pl.",
+      "Jak długo urząd ma obowiązek odpowiedzieć na podanie zgodnie z KPA? Proszę odpowiedzieć w pl.",
+      "Czy podanie o dostęp do informacji publicznej wymaga uzasadnienia w Polsce? Proszę odpowiedzieć w pl.",
+      "Jaką rolę pełni uzasadnienie w podaniu do sądu administracyjnego? Proszę odpowiedzieć w pl.",
+      "Czy w polskiej tradycji urzędowej istnieją regionalne różnice w formatowaniu pod"
+    ]
+  },
+  "administrator": {
+    "translated_noun": "administrator",
+    "questions": [
+      "1. Jakie są główne obowiązki administratora systemowego w kontekście zgodności z RODO w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób administrator sieci zabezpiecza infrastrukturę przed atakami DDoS w polskich firmach? Proszę odpowiedzieć w pl.",
+      "3. Jakie narzędzia monitoringu są najczęściej wykorzystywane przez administratorów IT w Polsce? Proszę odpowiedzieć w pl.",
+      "4. Czym różni się rola administratora baz danych od administratora systemowego w polskich organizacjach? Proszę odpowiedzieć w pl.",
+      "5. Jakie certyfikaty IT są najbardziej wartościowe dla administratora w Polsce w 2024 roku? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób administratorzy w Polsce zarządzają kopiami zapasowymi w środowiskach hybrydowych? Proszę odpowiedzieć w pl.",
+      "7. Jakie wyzwania związane z migracją do chmury publicznej najczęściej napotykają polscy administratorzy? Proszę odpowiedzieć w pl.",
+      "8. Dlaczego zarządzanie uprawnieniami użytkowników jest kluczowe dla administratora w sektorze finansowym w Polsce? Proszę odpowiedzieć w pl.",
+      "9. Jakie praktyki stosują polscy administratorzy do minimalizacji przestojów serwerów krytycznych? Proszę odpowiedzieć w pl.",
+      "10. Czym różni się rola administratora platformy e-commerce od administratora forum internetowego w Polsce? Proszę odpowiedzieć w pl."
+    ]
   }
 }
