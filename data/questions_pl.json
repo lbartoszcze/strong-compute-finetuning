@@ -1,0 +1,137 @@
+{
+  "ATM": {
+    "translated_noun": "ATM",
+    "questions": [
+      "Okay, I need to generate 10 unique questions about \"ATM\" in Polish. The user specified that they should be unique for Poland, so I should focus on aspects specific to the Polish context. Let me start by brainstorming different angles.",
+      "First, legal regulations. Poland has its own banking laws, so maybe a question about the legal requirements for ATMs in Poland. Then, transaction limits could be a common concern, especially since limits might vary by country. Currency compatibility is another point—Polish ATMs mainly dispense PLN, but do they handle foreign currencies?",
+      "Security is a big topic. What specific measures are in place in Polish ATMs that differ from other countries? Accessibility features for people with disabilities could be another angle, as Poland might have specific standards. Fees are always a concern; how do Polish ATM fees compare internationally?",
+      "Technical issues like card retention—what happens if an ATM keeps your card in Poland? How do Polish banks handle refunds for unauthorized transactions? Spy devices are a security issue; what's the prevalence in Poland and prevention methods? Finally, deposit ATMs are becoming more common, but how widespread are they in Poland?",
+      "Need to make sure each question is distinct and touches on different aspects—legal, technical, security, fees, accessibility, etc. Let me check each one to ensure uniqueness and relevance to Poland. Also, each question ends with \"Proszę odpowiedzieć w pl\". Alright, compiling the list now.",
+      "1. Jakie są obowiązujące w Polsce przepisy dotyczące minimalnej odległości między bankomatami (ATM) w miastach? Proszę odpowiedzieć w pl.",
+      "2. Czy polskie bankomaty oferują możliwość wypłaty gotówki w walutach obcych, takich jak euro lub dolar? Proszę odpowiedzieć w pl.",
+      "3. W jaki sposób polskie banki zabezpieczają bankomaty przed atakami z użyciem materiałów wybuchowych? Proszę odpowiedzieć w pl.",
+      "4. Czy w Polsce istnieją specjalne rozwiązania dla osób z niepełnosprawnościami wzroku w kontekście korzystania z ATM? Proszę odpowiedzieć w pl.",
+      "5. Jakie limity wypłat z bankomatów obowiązują w polskich bankach i czy można je indywidualnie zmieniać? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "CD": {
+    "translated_noun": "CD",
+    "questions": [
+      "1. Jakie były główne przyczyny spadku popularności płyt CD na rzecz formatów cyfrowych w Polsce? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób działa technologia zapisu danych na płycie CD, oparta na świetle lasera? Proszę odpowiedzieć w pl.",
+      "3. Jakie unikalne projekty graficzne okładek płyt CD stały się kultowe w polskiej muzyce? Proszę odpowiedzieć w pl.",
+      "4. Dlaczego niektóre polskie zespoły nadal wydają albumy na CD mimo dominacji streamingu? Proszę odpowiedzieć w pl.",
+      "5. Jakie zalety mają płyty CD-RW w porównaniu do CD-R w kontekście archiwizacji danych? Proszę odpowiedzieć w pl.",
+      "6. W jaki sposób polskie prawo autorskie reguluje kopiowanie płyt CD na użytek prywatny? Proszę odpowiedzieć w pl.",
+      "7. Jakie inicjatywy ekologiczne w Polsce zajmują się recyklingiem zużytych płyt CD? Proszę odpowiedzieć w pl.",
+      "8. Jakie były najważniejsze różnice między pierwszymi płytami CD a ich współczesnymi wersjami? Proszę odpowiedzieć w pl.",
+      "9. Czy istnieją w Polsce niszowe wytwórnie specjalizujące się w limitowanych edycjach płyt CD? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób naprawić drobne uszkodzenia płyty CD, aby przywrócić jej czytelność? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "SUV": {
+    "translated_noun": "SUV",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions about SUVs in Polish. Let me start by understanding the requirements. The questions need to be unique to Poland, so I should focus on aspects specific to the Polish market, culture, or environment.",
+      "First, I need to think about various angles. Fuel consumption is a common topic, but maybe I can tie it to Polish fuel prices. Then, insurance differences between SUVs and other cars in Poland could be another angle. Road infrastructure, like how SUVs handle Polish roads, especially in winter, might be interesting.",
+      "Electric SUVs are trending, so asking about their popularity in Poland makes sense. Taxes related to SUV emissions in Poland is another unique angle. Comparing sales data between SUVs and other segments in the Polish market could provide insight. Tire preferences for Polish SUV drivers, especially given the weather, is a good point.",
+      "Off-road capabilities might be overestimated in Poland, so that's a potential question. Maintenance costs compared to other vehicles in Poland would be practical. Lastly, the growth of the SUV rental market in Poland, maybe linked to tourism.",
+      "I need to ensure each question is distinct and touches on different aspects: economics, culture, environment, regulations, and usage. Also, each should end with \"Proszę odpowiedzieć w pl.\" Let me check for repetition and confirm all are relevant to Poland specifically. That should cover it.",
+      "1. Jakie są najnowsze trendy w sprzedaży SUV-ów w Polsce w 2024 roku? Proszę odpowiedzieć w pl.",
+      "2. Dlaczego kierowcy w Polsce wybierają SUV-y zamiast mniejszych pojazdów miejskich? Proszę odpowiedzieć w pl.",
+      "3. Czy SUV-y są bardziej opłacalne pod względem zużycia paliwa na polskich drogach? Proszę odpowiedzieć w pl.",
+      "4. Jak polskie przepisy drogowe wpływają na popularność SUV-ów z napędem 4x4? Proszę odpowiedzieć w pl.",
+      "5. Czy w Polsce istnieją specjalne podatki lub dopłaty związane z zakupem hybrydowych SUV-ów? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "TELEWIZJA": {
+    "translated_noun": "TELEWIZJA",
+    "questions": [
+      "Jakie zmiany w prawie medialnym w Polsce najsilniej wpłynęły na rynek telewizyjny w ostatniej dekadzie? Proszę odpowiedzieć w pl.",
+      "Czy polskie seriale obyczajowe konkurują skutecznie z produkcjami zagranicznymi pod względem oglądalności? Proszę odpowiedzieć w pl.",
+      "Jakie konsekwencje dla rodzimych stacji telewizyjnych ma obowiązek emisji określonego procentu produkcji europejskich? Proszę odpowiedzieć w pl.",
+      "W jaki sposób polska telewizja publiczna adaptuje się do potrzeb młodych widzów w dobie social media? Proszę odpowiedzieć w pl.",
+      "Dlaczego programy typu „trash TV” zyskują popularność w Polsce mimo krytyki ekspertów? Proszę odpowiedzieć w pl.",
+      "Jakie są etyczne wyzwania związane z relacjonowaniem wydarzeń politycznych na antenach głównych stacji telewizyjnych w Polsce? Proszę odpowiedzieć w pl.",
+      "Czy audycje edukacyjne dla dzieci emitowane w polskiej telewizji spełniają współczesne standardy pedagogiczne? Proszę odpowiedzieć w pl.",
+      "Jak polskie stacje telewizyjne radzą sobie z cyfrową transformacją i interaktywnością w programach na żywo? Proszę odpowiedzieć w pl.",
+      "W jaki sposób kryzys gospodarczy wpłynął na reklamodawców i finansowanie kanałów telewizyjnych w Polsce? Proszę odpowiedzieć w pl.",
+      "Czy w Polsce istnieją nisze programowe (np. kanały tematyczne), które odnoszą międzynarodowy sukces? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "ardvark": {
+    "translated_noun": "ardvark",
+    "questions": [
+      "Jak brzmi polska nazwa naukowa aardvarka i jakie jest jej etymologiczne znaczenie? Proszę odpowiedzieć w pl.",
+      "Czy w Polsce istnieją ogrody zoologiczne hodujące mrówniki afrykańskie? Proszę odpowiedzieć w pl.",
+      "W jaki sposób dieta aardvarka wpływa na ekosystemy Afryki, i czy są analogie do polskich gatunków? Proszę odpowiedzieć w pl.",
+      "Dlaczego aardvark nie występuje naturalnie w Polsce, mimo podobieństw klimatycznych do części jego habitatów? Proszę odpowiedzieć w pl.",
+      "Czy polscy naukowcy prowadzą badania nad zachowaniami nocnymi mrówników? Proszę odpowiedzieć w pl.",
+      "Jakie legendy lub kulturę popkulturą w Polsce nawiązują do zwierząt przypominających aardvarka? Proszę odpowiedzieć w pl.",
+      "Czy w Polsce organizuje się wystawy edukacyjne poświęcone aardvarkom? Proszę odpowiedzieć w pl.",
+      "Jakie przystosowania anatomiczne aardvarka mogłyby zainspirować polskich inżynierów? Proszę odpowiedzieć w pl.",
+      "Czy istnieją polskie książki dla dzieci, w których pojawia się postać mrównika? Proszę odpowiedzieć w pl.",
+      "Jakie wyzwania napotkałby aardvark w konfrontacji z drapieżnikami typowymi dla Polski? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "abacus": {
+    "translated_noun": "abacus",
+    "questions": [
+      "Alright, the user wants 10 unique questions in Polish about the abacus, each ending with \"Proszę odpowiedzieć w pl\". Let's start by brainstorming different angles. First, historical aspects—origin and timeline. Then maybe cultural context, like its use in Poland. Technical questions on how it works. Educational benefits for children. Compare it to modern tech. Different types globally. Role in math education now. Renowned experts. Impact on cognitive development. Also, influence on modern tech. Need to make sure each question is distinct, avoiding overlap. Check for Polish uniqueness, maybe avoid common questions. Use varied verbs like \"powstał\", \"rozprzestrzenił\", \"działa\", \"wykorzystywany\", etc. Ensure each starts differently to keep them interesting. Time to draft each, making sure they end with the required phrase.",
+      "1. Jakie są najstarsze udokumentowane wzmianki o użyciu abakusu w historii matematyki? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób abacus rozprzestrzenił się z Azji do Europy i jakie modyfikacje wprowadzono po drodze? Proszę odpowiedzieć w pl.",
+      "3. Czy istnieją polskie tradycje lub szkoły związane z nauką korzystania z abakusa? Proszę odpowiedzieć w pl.",
+      "4. Jakie są kluczowe różnice między klasycznym abakusem a współczesnymi kalkulatorami w kontekście edukacji matematycznej? Proszę odpowiedzieć w pl.",
+      "5. Czy abacus jest nadal wykorzystywany w profesjonalnych dziedzinach, takich jak inżynieria lub ekonomia? Proszę odpowiedzieć w pl.",
+      "6. Jakie ćwiczenia z abakusem zaleca się dla dzieci rozwijających umiejętności poznawcze? Proszę odpowiedzieć w pl.",
+      "7. Czy istnieją zawody w Polsce, w których znajomość abakusa jest ceniona lub wymagana? Proszę odpowiedzieć w pl.",
+      "8. Jakie są najciekawsze warianty abakusa używane w różnych kulturach poza Chinami i Japonią? Proszę odpowiedzieć w pl.",
+      "9. W jaki sposób abacus wpłynął na rozwój algorytmów i współczesnej informatyki? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "opactwo": {
+    "translated_noun": "opactwo",
+    "questions": [
+      "Okay, the user wants me to generate 10 unique questions in Polish about \"opactwo\" (which is abbey). Each must be unique to Poland, only in Polish, and include \"Proszę odpowiedzieć w pl\" at the end. Let me start by recalling what makes an abbey specific to Poland. Maybe historical aspects, famous Polish abbeys, architectural styles unique to Poland, their role in Polish history.",
+      "First, I should list famous Polish abbeys. There's Tyniec Abbey near Kraków, Mogilno Abbey, perhaps Jasna Góra in Częstochowa, though that's a monastery, not sure if classified as an abbey. Need to confirm.",
+      "Then, their roles: religious centers, education, political influence. Maybe questions about their architecture in different Polish regions, like Gothic or Baroque styles. Also, the impact of historical events like partitions, World War II, or communism on abbeys in Poland.",
+      "Potential questions:",
+      "1. Role of Benedictine abbey in Tyniec in Polish history.",
+      "2. How Polish abbeys contributed to education.",
+      "3. The most famous abbey in Wielkopolska region.",
+      "4. Impact of Partitions of Poland on abbeys.",
+      "5. Cistercian abbeys in Poland and their architecture.",
+      "6. Legends associated with Polish abbeys."
+    ]
+  },
+  "skrót": {
+    "translated_noun": "skrót",
+    "questions": [
+      "1. Jakie są najczęściej używane skróty w języku polskim w kontekście dokumentów formalnych i jak je poprawnie stosować? Proszę odpowiedzieć w pl.",
+      "2. W jaki sposób skróty w języku polskim różnią się od skrótowców? Podaj konkretne przykłady. Proszę odpowiedzieć w pl.",
+      "3. Czym jest \"skrót klawiaturowy\" i jakie są trzy najbardziej przydatne skróty dla użytkowników systemu Windows w Polsce? Proszę odpowiedzieć w pl.",
+      "4. Dlaczego niektóre skróty w języku polskim wymagają użycia twardej spacji i jak ją zastosować w edytorze tekstu? Proszę odpowiedzieć w pl.",
+      "5. Kiedy i w jakim kontekście historycznym zaczęto stosować skróty w piśmiennictwie polskim? Proszę odpowiedzieć w pl.",
+      "6. Jakie kryteria decydują o poprawności skrótu w języku polskim według Rady Języka Polskiego? Proszę odpowiedzieć w pl.",
+      "7. Wymień pięć skrótów używanych w polskiej branży IT, które mają inne znaczenie w języku potocznym. Proszę odpowiedzieć w pl.",
+      "8. Dlaczego niektóre skróty w języku polskim pisze się wielką literą, a inne małą? Podaj przykłady. Proszę odpowiedzieć w pl.",
+      "9. Jakie są najczęstsze błędy popełniane przez obcokrajowców przy stosowaniu polskich skrótów? Proszę odpowiedzieć w pl.",
+      "10. W jaki sposób rozwój technologii wpłynął na ewolucję skrótów używanych w polskiej komunikacji internetowej? Proszę odpowiedzieć w pl."
+    ]
+  },
+  "brzuch": {
+    "translated_noun": "brzuch",
+    "questions": [
+      "1. Jakie funkcje pełnią mięśnie brzucha oprócz wspomagania ruchu tułowia? Proszę odpowiedzieć w pl.",
+      "2. Czy istnieją polskie przysłowia lub powiedzenia związane z brzuchem? Proszę odpowiedzieć w pl.",
+      "3. Jakie produkty spożywcze najczęściej powodują wzdęcia brzucha i dlaczego? Proszę odpowiedzieć w pl.",
+      "4. Czym różni się \"brzuch\" w kontekście anatomicznym od potocznego rozumienia tego słowa? Proszę odpowiedzieć w pl.",
+      "5. Jakie są mniej oczywiste przyczyny bólu brzucha, które warto skonsultować z lekarzem? Proszę odpowiedzieć w pl.",
+      "6. Dlaczego niektóre osoby mają tendencję do gromadzenia tkanki tłuszczowej właśnie na brzuchu? Proszę odpowiedzieć w pl.",
+      "7. Jakie znaczenie miały „brzuchy” w kulturze staropolskiej lub ludowych wierzeniach? Proszę odpowiedzieć w pl.",
+      "8. Czy istnieją ćwiczenia oddechowe, które mogą wspierać zdrowie brzucha? Proszę odpowiedzieć w pl.",
+      "9. Co oznaczają skurcze brzucha występujące niezwiązane z trawieniem lub cyklem miesięcznym? Proszę odpowiedzieć w pl.",
+      "10. Jakie odkrycia naukowe dotyczą jelitowego układu nerwowego zmieniły postrzeganie „brzucha jako drugiego mózgu”? Proszę odpowiedzieć w pl."
+    ]
+  }
+}

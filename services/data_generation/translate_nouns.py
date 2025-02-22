@@ -13,6 +13,15 @@ def translate_nouns(target_lang: str):
     input_file = nouns_dir / "nounlist.txt"
     output_file = nouns_dir / f"nouns_{target_lang}.txt"
     
+    # Check if we already have enough translations
+    if output_file.exists():
+        with open(output_file, 'r', encoding='utf-8') as f:
+            num_nouns = sum(1 for line in f if line.strip())
+        if num_nouns >= 5000:
+            print(f"Found {num_nouns} existing translations - skipping translation")
+            return True
+        print(f"Only found {num_nouns} translations - translating more")
+    
     # Read nouns
     with open(input_file, 'r', encoding='utf-8') as f:
         nouns = [line.strip() for line in f if line.strip()]
