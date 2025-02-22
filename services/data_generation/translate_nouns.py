@@ -3,18 +3,15 @@ import json
 import requests
 from pathlib import Path
 from typing import List, Dict
+import time
 
 TRANSLATE_API_URL = 'http://127.0.0.1:5000/translate'
 
 def translate_nouns(target_lang: str):
     """Translate nouns from nounlist.txt to specified target language"""
-    # Get the directory of nounlist.txt
     nouns_dir = Path("data")
     input_file = nouns_dir / "nounlist.txt"
-    
-    if not input_file.exists():
-        print(f"Error: Could not find {input_file}")
-        return
+    output_file = nouns_dir / f"nouns_{target_lang}.txt"
     
     # Read nouns
     with open(input_file, 'r', encoding='utf-8') as f:
@@ -23,8 +20,9 @@ def translate_nouns(target_lang: str):
     print(f"Translating {len(nouns)} nouns to {target_lang}")
     
     # Translate each noun
-    translations = {}
-    for noun in nouns:
+    translations = []
+    for i, noun in enumerate(nouns, 1):
+        print(f"Translating {i}/{len(nouns)}: {noun}", end='\r', flush=True)
         try:
             response = requests.post(
                 TRANSLATE_API_URL,
@@ -37,23 +35,22 @@ def translate_nouns(target_lang: str):
             )
             
             if response.ok:
-                data = response.json()
-                translations[noun] = data.get('translatedText', noun)
+                translations.append(response.json()['translatedText'])
             else:
-                print(f"Translation failed for '{noun}' with status {response.status_code}")
-                translations[noun] = noun
+                translations.append(noun)
                 
         except Exception as e:
-            print(f"Error translating '{noun}': {str(e)}")
-            translations[noun] = noun
+            translations.append(noun)
+        
+        time.sleep(0.1)
     
-    # Save translations
-    output_file = nouns_dir / f"nouns_{target_lang}.txt"
+    # Save only translated words
     with open(output_file, 'w', encoding='utf-8') as f:
-        for original, translated in translations.items():
-            f.write(f"{original}\t{translated}\n")
+        for translated in translations:
+            f.write(f"{translated}\n")
     
-    print(f"Translations saved to {output_file}")
+    print(f"\nTranslations saved to {output_file}")
+    return True
 
 if __name__ == "__main__":
     import sys
