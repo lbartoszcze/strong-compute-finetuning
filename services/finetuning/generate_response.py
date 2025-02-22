@@ -1,7 +1,7 @@
+from .get_prompt_template import get_prompt_template
+
 def generate_base_response(model, tokenizer, instruction, device):
-    from .get_dataset import PROMPT_TEMPLATE
-    
-    prompt = PROMPT_TEMPLATE % instruction
+    prompt = get_prompt_template() % instruction
     prompt = tokenizer(prompt, return_tensors="pt").to(device)
     
     model_response = model.generate(
@@ -14,9 +14,7 @@ def generate_base_response(model, tokenizer, instruction, device):
     return tokenizer.decode(model_response[0], skip_special_tokens=True)
 
 def generate_reft_response(reft_model, tokenizer, instruction):
-    from .get_dataset import PROMPT_TEMPLATE
-    
-    prompt = PROMPT_TEMPLATE % instruction
+    prompt = get_prompt_template() % instruction
     prompt = tokenizer(prompt, return_tensors="pt")
     
     # Move input tensors to the same device as the model

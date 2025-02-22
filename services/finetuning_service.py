@@ -57,28 +57,6 @@ def max_char_match_length(retrieved, golden):
 
 make_supervised_data_module = make_last_position_supervised_data_module
 
-prompt_no_input_template = """<s>[INST] <<SYS>>
-You are a helpful, respectful and honest assistant. Always answer as helpfully as possible, while being safe.  Your answers should not include any harmful, unethical, racist, sexist, toxic, dangerous, or illegal content. Please ensure that your responses are socially unbiased and positive in nature.
-
-If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
-<</SYS>>
-
-%s [/INST]
-"""
-
-def generate_response(model, tokenizer, instruction):
-    prompt = prompt_no_input_template % instruction
-    prompt = tokenizer(prompt, return_tensors="pt").to(device)
-    
-    model_response = model.generate(
-        **prompt, 
-        max_new_tokens=512,
-        do_sample=True,
-        eos_token_id=tokenizer.eos_token_id,
-        early_stopping=True
-    )
-    return tokenizer.decode(model_response[0], skip_special_tokens=True)
-
 def main():
     # Load model and tokenizer
     model, tokenizer, device = load_model_and_tokenizer()
