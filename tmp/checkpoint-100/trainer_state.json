@@ -10,37 +10,37 @@
   "log_history": [
     {
       "epoch": 20.0,
-      "grad_norm": 1.3656734228134155,
+      "grad_norm": 2.8089756965637207,
       "learning_rate": 0.0032,
-      "loss": 1.4505,
+      "loss": 1.7665,
       "step": 20
     },
     {
       "epoch": 40.0,
-      "grad_norm": 0.03605156019330025,
+      "grad_norm": 0.17526358366012573,
       "learning_rate": 0.0024,
-      "loss": 0.0187,
+      "loss": 0.1244,
       "step": 40
     },
     {
       "epoch": 60.0,
-      "grad_norm": 0.00965976808220148,
+      "grad_norm": 0.011829160153865814,
       "learning_rate": 0.0016,
-      "loss": 0.0018,
+      "loss": 0.0022,
       "step": 60
     },
     {
       "epoch": 80.0,
-      "grad_norm": 0.00572583032771945,
+      "grad_norm": 0.006339152809232473,
       "learning_rate": 0.0008,
       "loss": 0.0009,
       "step": 80
     },
     {
       "epoch": 100.0,
-      "grad_norm": 0.005051922518759966,
+      "grad_norm": 0.005187686532735825,
       "learning_rate": 0.0,
-      "loss": 0.0008,
+      "loss": 0.0007,
       "step": 100
     }
   ],
